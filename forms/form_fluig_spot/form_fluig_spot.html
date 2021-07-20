@@ -1,0 +1,82 @@
+<html>
+
+<head>
+	<link type="text/css" rel="stylesheet" href="/style-guide/css/fluig-style-guide.min.css" />
+	<script type="text/javascript" src="/portal/resources/js/jquery/jquery.js"></script>
+	<script type="text/javascript" src="/portal/resources/js/jquery/jquery-ui.min.js"></script>
+	<script type="text/javascript" src="/portal/resources/js/mustache/mustache-min.js"></script>
+	<script type="text/javascript" src="/style-guide/js/fluig-style-guide.min.js" charset="utf-8"></script>
+	<link rel="stylesheet" href="style_01_main.css">
+	<!-- Importações CDN -->
+	<script src="//cdn.jsdelivr.net/npm/sweetalert2@11"></script>
+	<link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.15.3/css/all.css"
+		integrity="sha384-SZXxX4whJ79/gErwcOYf+zWLeJdY/qpuqC4cAa9rOGUstPomtqpuNWT9wdPEn2fk" crossorigin="anonymous">
+</head>
+
+<body>
+	<div class="fluig-style-guide">
+		<form name="form" role="form">
+			<div class="h_inputs">
+				<input type="hidden" name="h_has_number" id="h_has_number">
+			</div>
+			<div class="card w-100">
+				<div class="card-body">
+					<h4 class="card-title" id="card-title-employee" style="text-align: center;"></h4>
+					<br>
+					<br>
+					<div class="cards-container" style="display: flex; justify-content: center; align-items: center;">
+						<!-- Bater ponto - Card -->
+						<div class="card card-style"
+							style="width: 18rem; box-shadow: 5px 5px 21px -8px #000000; margin-right:2%; border: 1px solid #A03C78; border-radius: 7px;">
+							<button type="button" class="btn btn-primary" id="b_spot"
+								style="background-color: #A03C78;">
+								<i class="fas fa-clock"></i>
+								Bater ponto
+							</button>
+							<div class="card-body">
+								<p class="card-text">O horário de referência é baseado no registro do formulário de
+									cadastro no registro do funcionário.
+								</p>
+							</div>
+						</div>
+						<!-- Pausa - Card -->
+						<div class="card card-style"
+							style="width: 18rem; box-shadow: 5px 5px 21px -8px #000000; margin-right:2%; border: 1px solid #262A53; border-radius: 7px;">
+							<button type="button" class="btn btn-primary" style="background-color: #262A53;">
+								<i class="fas fa-pause-circle"></i>
+								Pausa
+							</button>
+							<div class="card-body">
+								<p class="card-text">O horário de referência é baseado no registro do formulário de
+									cadastro no registro do funcionário.
+								</p>
+							</div>
+						</div>
+						<!-- Retorno - Card -->
+						<div class="card card-style"
+							style="width: 18rem; box-shadow: 5px 5px 21px -8px #000000; margin-right:2%; border: 1px solid #D54C4C; border-radius: 7px;">
+							<button type="button" class="btn btn-primary" id="b_return"
+								style="background-color: #D54C4C;">
+								<i class="fas fa-undo"></i>
+								Retorno
+							</button>
+							<div class="card-body">
+								<p class="card-text">O horário de referência é baseado no registro do formulário de
+									cadastro
+									dos horários.</p>
+							</div>
+						</div>
+					</div>
+				</div>
+			</div>
+		</form>
+	</div>
+	<!-- Importação de DS no Front-end -->
+	<script type="text/javascript" src="/webdesk/vcXMLRPC.js"></script>
+	<script src="./module_01_main.js"></script>
+	<script src="./module_02_onload.js"></script>
+	<script src="./module_03_activities.js"></script>
+	<script src="./module_04_alerts.js"></script>
+</body>
+
+</html>

@@ -1,0 +1,5 @@
+var ZERO = 0;
+var INICIO = 7;
+var EXCLUSIVO = 9;
+var ENVIAR_MENSAGEM = 8;
+var CONTADOR = 12;

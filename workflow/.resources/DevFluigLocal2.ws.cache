@@ -1,0 +1,4923 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<java version="11.0.11" class="java.beans.XMLDecoder">
+ <object class="java.util.HashMap">
+  <void method="put">
+   <string>volume</string>
+   <array class="java.lang.String" length="1">
+    <void index="0">
+     <string>Default</string>
+    </void>
+   </array>
+  </void>
+  <void method="put">
+   <string>fichario</string>
+   <object class="java.util.ArrayList">
+    <void method="add">
+     <object class="com.totvs.tds.ecm.foundation.ws.DocumentDto">
+      <void property="UUID">
+       <string>9E66AC69-3418-42E1-8558-4D4FB3568782</string>
+      </void>
+      <void property="accessCount">
+       <int>0</int>
+      </void>
+      <void property="additionalComments">
+       <string></string>
+      </void>
+      <void property="cardDescription">
+       <string>meeting</string>
+      </void>
+      <void property="colleagueId">
+       <string>admin</string>
+      </void>
+      <void property="companyId">
+       <int>1</int>
+      </void>
+      <void property="createDate">
+       <object class="com.sun.org.apache.xerces.internal.jaxp.datatype.XMLGregorianCalendarImpl"/>
+      </void>
+      <void property="datasetName">
+       <string>FLUIGADHOC</string>
+      </void>
+      <void property="documentDescription">
+       <string>FLUIGADHOC</string>
+      </void>
+      <void property="documentId">
+       <int>3</int>
+      </void>
+      <void property="documentPropertyNumber">
+       <int>3</int>
+      </void>
+      <void property="documentPropertyVersion">
+       <int>1000</int>
+      </void>
+      <void property="documentType">
+       <string>4</string>
+      </void>
+      <void property="documentTypeId">
+       <string></string>
+      </void>
+      <void property="expirationDate">
+       <object class="com.sun.org.apache.xerces.internal.jaxp.datatype.XMLGregorianCalendarImpl"/>
+      </void>
+      <void property="iconId">
+       <int>0</int>
+      </void>
+      <void property="keyWord">
+       <string></string>
+      </void>
+      <void property="languageId">
+       <string></string>
+      </void>
+      <void property="lastModifiedDate">
+       <object class="com.sun.org.apache.xerces.internal.jaxp.datatype.XMLGregorianCalendarImpl"/>
+      </void>
+      <void property="parentDocumentId">
+       <int>2</int>
+      </void>
+      <void property="phisicalFile">
+       <string>FLUIGADHOC.html</string>
+      </void>
+      <void property="phisicalFileSize">
+       <float>0.240222</float>
+      </void>
+      <void property="publisherId">
+       <string>admin</string>
+      </void>
+      <void property="relatedFiles">
+       <string>FLUIGADHOC.html FLUIGADHOC.js FLUIGADHOC.css FLUIGADHOC1.png FLUIGADHOC2.png FLUIGADHOC3.png FLUIGADHOC4.png FLUIGADHOC.properties FLUIGADHOC_en_US.properties FLUIGADHOC_es.properties FLUIGADHOC_pt_BR.properties</string>
+      </void>
+      <void property="topicId">
+       <int>0</int>
+      </void>
+      <void property="validationStartDate">
+       <object class="com.sun.org.apache.xerces.internal.jaxp.datatype.XMLGregorianCalendarImpl"/>
+      </void>
+      <void property="version">
+       <int>1000</int>
+      </void>
+      <void property="versionDescription">
+       <string></string>
+      </void>
+      <void property="volumeId">
+       <string>Default</string>
+      </void>
+     </object>
+    </void>
+    <void method="add">
+     <object class="com.totvs.tds.ecm.foundation.ws.DocumentDto">
+      <void property="UUID">
+       <string>02734D40-893F-4EFF-87BE-79FACD481882</string>
+      </void>
+      <void property="accessCount">
+       <int>0</int>
+      </void>
+      <void property="additionalComments">
+       <string></string>
+      </void>
+      <void property="cardDescription">
+       <string>activity</string>
+      </void>
+      <void property="colleagueId">
+       <string>admin</string>
+      </void>
+      <void property="companyId">
+       <int>1</int>
+      </void>
+      <void property="createDate">
+       <object class="com.sun.org.apache.xerces.internal.jaxp.datatype.XMLGregorianCalendarImpl"/>
+      </void>
+      <void property="datasetName">
+       <string>FLUIGADHOCPROCESS</string>
+      </void>
+      <void property="documentDescription">
+       <string>FLUIGADHOCPROCESS</string>
+      </void>
+      <void property="documentId">
+       <int>4</int>
+      </void>
+      <void property="documentPropertyNumber">
+       <int>4</int>
+      </void>
+      <void property="documentPropertyVersion">
+       <int>1000</int>
+      </void>
+      <void property="documentType">
+       <string>4</string>
+      </void>
+      <void property="documentTypeId">
+       <string></string>
+      </void>
+      <void property="expirationDate">
+       <object class="com.sun.org.apache.xerces.internal.jaxp.datatype.XMLGregorianCalendarImpl"/>
+      </void>
+      <void property="iconId">
+       <int>0</int>
+      </void>
+      <void property="keyWord">
+       <string></string>
+      </void>
+      <void property="languageId">
+       <string></string>
+      </void>
+      <void property="lastModifiedDate">
+       <object class="com.sun.org.apache.xerces.internal.jaxp.datatype.XMLGregorianCalendarImpl"/>
+      </void>
+      <void property="parentDocumentId">
+       <int>2</int>
+      </void>
+      <void property="phisicalFile">
+       <string>FLUIGADHOCPROCESS.html</string>
+      </void>
+      <void property="phisicalFileSize">
+       <float>0.23722</float>
+      </void>
+      <void property="publisherId">
+       <string>admin</string>
+      </void>
+      <void property="relatedFiles">
+       <string>FLUIGADHOCPROCESS.html FLUIGADHOCPROCESS.js FLUIGADHOCPROCESS.css FLUIGADHOCPROCESS1.png FLUIGADHOCPROCESS2.png FLUIGADHOCPROCESS.properties FLUIGADHOCPROCESS_en_US.properties FLUIGADHOCPROCESS_es.properties FLUIGADHOCPROCESS_pt_BR.properties</string>
+      </void>
+      <void property="topicId">
+       <int>0</int>
+      </void>
+      <void property="validationStartDate">
+       <object class="com.sun.org.apache.xerces.internal.jaxp.datatype.XMLGregorianCalendarImpl"/>
+      </void>
+      <void property="version">
+       <int>1000</int>
+      </void>
+      <void property="versionDescription">
+       <string></string>
+      </void>
+      <void property="volumeId">
+       <string>Default</string>
+      </void>
+     </object>
+    </void>
+    <void method="add">
+     <object class="com.totvs.tds.ecm.foundation.ws.DocumentDto">
+      <void property="UUID">
+       <string>B1B5B24E-0EFD-472D-BF2A-58A151FD2C19</string>
+      </void>
+      <void property="accessCount">
+       <int>0</int>
+      </void>
+      <void property="additionalComments">
+       <string></string>
+      </void>
+      <void property="cardDescription">
+       <string></string>
+      </void>
+      <void property="colleagueId">
+       <string>0001</string>
+      </void>
+      <void property="companyId">
+       <int>1</int>
+      </void>
+      <void property="createDate">
+       <object class="com.sun.org.apache.xerces.internal.jaxp.datatype.XMLGregorianCalendarImpl"/>
+      </void>
+      <void property="datasetName">
+       <string>ds_noticias_internas_tv</string>
+      </void>
+      <void property="documentDescription">
+       <string>form_noticias_internas_tv</string>
+      </void>
+      <void property="documentId">
+       <int>884</int>
+      </void>
+      <void property="documentPropertyNumber">
+       <int>884</int>
+      </void>
+      <void property="documentPropertyVersion">
+       <int>4000</int>
+      </void>
+      <void property="documentType">
+       <string>4</string>
+      </void>
+      <void property="documentTypeId">
+       <string></string>
+      </void>
+      <void property="expirationDate">
+       <object class="com.sun.org.apache.xerces.internal.jaxp.datatype.XMLGregorianCalendarImpl"/>
+      </void>
+      <void property="iconId">
+       <int>0</int>
+      </void>
+      <void property="inheritSecurity">
+       <boolean>true</boolean>
+      </void>
+      <void property="keyWord">
+       <string></string>
+      </void>
+      <void property="languageId">
+       <string></string>
+      </void>
+      <void property="lastModifiedDate">
+       <object class="com.sun.org.apache.xerces.internal.jaxp.datatype.XMLGregorianCalendarImpl"/>
+      </void>
+      <void property="parentDocumentId">
+       <int>883</int>
+      </void>
+      <void property="phisicalFile">
+       <string>form_noticias_internas_tv.html</string>
+      </void>
+      <void property="phisicalFileSize">
+       <float>0.0987806</float>
+      </void>
+      <void property="publisherId">
+       <string>0001</string>
+      </void>
+      <void property="relatedFiles">
+       <string>ECMDocumentServiceRequest.xml formScript.js form_noticias_internas_tv.html select2-bootstrap.min.css select2.min.css select2.min.js style.css</string>
+      </void>
+      <void property="topicId">
+       <int>0</int>
+      </void>
+      <void property="validationStartDate">
+       <object class="com.sun.org.apache.xerces.internal.jaxp.datatype.XMLGregorianCalendarImpl"/>
+      </void>
+      <void property="version">
+       <int>4000</int>
+      </void>
+      <void property="versionDescription">
+       <string></string>
+      </void>
+      <void property="volumeId">
+       <string>Default</string>
+      </void>
+     </object>
+    </void>
+    <void method="add">
+     <object class="com.totvs.tds.ecm.foundation.ws.DocumentDto">
+      <void property="UUID">
+       <string>23299701-69AA-4553-9C6B-872A7AE95E45</string>
+      </void>
+      <void property="accessCount">
+       <int>0</int>
+      </void>
+      <void property="additionalComments">
+       <string>Formulário de Solicitação de Compra</string>
+      </void>
+      <void property="cardDescription">
+       <string></string>
+      </void>
+      <void property="colleagueId">
+       <string>admin</string>
+      </void>
+      <void property="companyId">
+       <int>1</int>
+      </void>
+      <void property="createDate">
+       <object class="com.sun.org.apache.xerces.internal.jaxp.datatype.XMLGregorianCalendarImpl"/>
+      </void>
+      <void property="datasetName">
+       <string>DSFormulariodeSolicitacaodeCompra</string>
+      </void>
+      <void property="documentDescription">
+       <string>Formulário de Solicitação de Compra</string>
+      </void>
+      <void property="documentId">
+       <int>1168</int>
+      </void>
+      <void property="documentPropertyNumber">
+       <int>1168</int>
+      </void>
+      <void property="documentPropertyVersion">
+       <int>6000</int>
+      </void>
+      <void property="documentType">
+       <string>4</string>
+      </void>
+      <void property="documentTypeId">
+       <string></string>
+      </void>
+      <void property="expirationDate">
+       <object class="com.sun.org.apache.xerces.internal.jaxp.datatype.XMLGregorianCalendarImpl"/>
+      </void>
+      <void property="iconId">
+       <int>0</int>
+      </void>
+      <void property="inheritSecurity">
+       <boolean>true</boolean>
+      </void>
+      <void property="keyWord">
+       <string></string>
+      </void>
+      <void property="languageId">
+       <string></string>
+      </void>
+      <void property="lastModifiedDate">
+       <object class="com.sun.org.apache.xerces.internal.jaxp.datatype.XMLGregorianCalendarImpl"/>
+      </void>
+      <void property="parentDocumentId">
+       <int>2</int>
+      </void>
+      <void property="phisicalFile">
+       <string>solicitacaoCompras_SAVIS.html</string>
+      </void>
+      <void property="phisicalFileSize">
+       <float>0.00716019</float>
+      </void>
+      <void property="publisherId">
+       <string>admin</string>
+      </void>
+      <void property="relatedFiles">
+       <string>bootstrap.min.css bootstrap.min.js formScript.js jquery-3.2.1.min.js jquery.mask.js jquery.mask.min.js jquery.maskMoney.min.js select2-bootstrap.min.css select2-i18n-pt-Br.js select2.min.css select2.min.js formScript.js logoiv2png.png solicitacaoCompras_SAVIS.html style.css styleForm.css</string>
+      </void>
+      <void property="topicId">
+       <int>0</int>
+      </void>
+      <void property="validationStartDate">
+       <object class="com.sun.org.apache.xerces.internal.jaxp.datatype.XMLGregorianCalendarImpl"/>
+      </void>
+      <void property="version">
+       <int>6000</int>
+      </void>
+      <void property="versionDescription">
+       <string></string>
+      </void>
+      <void property="volumeId">
+       <string>Default</string>
+      </void>
+     </object>
+    </void>
+    <void method="add">
+     <object class="com.totvs.tds.ecm.foundation.ws.DocumentDto">
+      <void property="UUID">
+       <string>30962B2E-242D-4475-8748-70B12D2E8AEA</string>
+      </void>
+      <void property="accessCount">
+       <int>0</int>
+      </void>
+      <void property="additionalComments">
+       <string>Formulário de Fluxo de Reembolso</string>
+      </void>
+      <void property="cardDescription">
+       <string></string>
+      </void>
+      <void property="colleagueId">
+       <string>admin</string>
+      </void>
+      <void property="companyId">
+       <int>1</int>
+      </void>
+      <void property="createDate">
+       <object class="com.sun.org.apache.xerces.internal.jaxp.datatype.XMLGregorianCalendarImpl"/>
+      </void>
+      <void property="datasetName">
+       <string>DSFormulariodeFluxodeReembolso</string>
+      </void>
+      <void property="documentDescription">
+       <string>Formulário de Fluxo de Reembolso</string>
+      </void>
+      <void property="documentId">
+       <int>1174</int>
+      </void>
+      <void property="documentPropertyNumber">
+       <int>1174</int>
+      </void>
+      <void property="documentPropertyVersion">
+       <int>2000</int>
+      </void>
+      <void property="documentType">
+       <string>4</string>
+      </void>
+      <void property="documentTypeId">
+       <string></string>
+      </void>
+      <void property="expirationDate">
+       <object class="com.sun.org.apache.xerces.internal.jaxp.datatype.XMLGregorianCalendarImpl"/>
+      </void>
+      <void property="iconId">
+       <int>0</int>
+      </void>
+      <void property="inheritSecurity">
+       <boolean>true</boolean>
+      </void>
+      <void property="keyWord">
+       <string></string>
+      </void>
+      <void property="languageId">
+       <string></string>
+      </void>
+      <void property="lastModifiedDate">
+       <object class="com.sun.org.apache.xerces.internal.jaxp.datatype.XMLGregorianCalendarImpl"/>
+      </void>
+      <void property="parentDocumentId">
+       <int>2</int>
+      </void>
+      <void property="phisicalFile">
+       <string>Formulário_de_Fluxo_de_Reembolso.html</string>
+      </void>
+      <void property="phisicalFileSize">
+       <float>0.00650692</float>
+      </void>
+      <void property="publisherId">
+       <string>admin</string>
+      </void>
+      <void property="relatedFiles">
+       <string>Formulário_de_Fluxo_de_Reembolso.html</string>
+      </void>
+      <void property="topicId">
+       <int>0</int>
+      </void>
+      <void property="validationStartDate">
+       <object class="com.sun.org.apache.xerces.internal.jaxp.datatype.XMLGregorianCalendarImpl"/>
+      </void>
+      <void property="version">
+       <int>2000</int>
+      </void>
+      <void property="versionDescription">
+       <string></string>
+      </void>
+      <void property="volumeId">
+       <string>Default</string>
+      </void>
+     </object>
+    </void>
+    <void method="add">
+     <object class="com.totvs.tds.ecm.foundation.ws.DocumentDto">
+      <void property="UUID">
+       <string>2B403387-379F-4A07-86A3-134B1D2342E0</string>
+      </void>
+      <void property="accessCount">
+       <int>0</int>
+      </void>
+      <void property="additionalComments">
+       <string></string>
+      </void>
+      <void property="cardDescription">
+       <string></string>
+      </void>
+      <void property="colleagueId">
+       <string>0001</string>
+      </void>
+      <void property="companyId">
+       <int>1</int>
+      </void>
+      <void property="createDate">
+       <object class="com.sun.org.apache.xerces.internal.jaxp.datatype.XMLGregorianCalendarImpl"/>
+      </void>
+      <void property="datasetName">
+       <string>ds_cadastroDeEventos</string>
+      </void>
+      <void property="documentDescription">
+       <string>Cadastro de Eventos</string>
+      </void>
+      <void property="documentId">
+       <int>1364</int>
+      </void>
+      <void property="documentPropertyNumber">
+       <int>1364</int>
+      </void>
+      <void property="documentPropertyVersion">
+       <int>38000</int>
+      </void>
+      <void property="documentType">
+       <string>4</string>
+      </void>
+      <void property="documentTypeId">
+       <string></string>
+      </void>
+      <void property="expirationDate">
+       <object class="com.sun.org.apache.xerces.internal.jaxp.datatype.XMLGregorianCalendarImpl"/>
+      </void>
+      <void property="iconId">
+       <int>0</int>
+      </void>
+      <void property="inheritSecurity">
+       <boolean>true</boolean>
+      </void>
+      <void property="keyWord">
+       <string></string>
+      </void>
+      <void property="languageId">
+       <string></string>
+      </void>
+      <void property="lastModifiedDate">
+       <object class="com.sun.org.apache.xerces.internal.jaxp.datatype.XMLGregorianCalendarImpl"/>
+      </void>
+      <void property="parentDocumentId">
+       <int>2</int>
+      </void>
+      <void property="phisicalFile">
+       <string>Francal - Cadastro de Eventos.html</string>
+      </void>
+      <void property="phisicalFileSize">
+       <float>0.00951958</float>
+      </void>
+      <void property="publisherId">
+       <string>admin</string>
+      </void>
+      <void property="relatedFiles">
+       <string>Francal - Cadastro de Eventos.html script.js</string>
+      </void>
+      <void property="topicId">
+       <int>0</int>
+      </void>
+      <void property="validationStartDate">
+       <object class="com.sun.org.apache.xerces.internal.jaxp.datatype.XMLGregorianCalendarImpl"/>
+      </void>
+      <void property="version">
+       <int>38000</int>
+      </void>
+      <void property="versionDescription">
+       <string></string>
+      </void>
+      <void property="volumeId">
+       <string>Default</string>
+      </void>
+     </object>
+    </void>
+    <void method="add">
+     <object class="com.totvs.tds.ecm.foundation.ws.DocumentDto">
+      <void property="UUID">
+       <string>7F442390-7E0C-404C-BA67-A50D5BE362AC</string>
+      </void>
+      <void property="accessCount">
+       <int>0</int>
+      </void>
+      <void property="additionalComments">
+       <string></string>
+      </void>
+      <void property="cardDescription">
+       <string></string>
+      </void>
+      <void property="colleagueId">
+       <string>0001</string>
+      </void>
+      <void property="companyId">
+       <int>1</int>
+      </void>
+      <void property="createDate">
+       <object class="com.sun.org.apache.xerces.internal.jaxp.datatype.XMLGregorianCalendarImpl"/>
+      </void>
+      <void property="datasetName">
+       <string>modal_fluig</string>
+      </void>
+      <void property="documentDescription">
+       <string>modal_fluig</string>
+      </void>
+      <void property="documentId">
+       <int>1406</int>
+      </void>
+      <void property="documentPropertyNumber">
+       <int>1406</int>
+      </void>
+      <void property="documentPropertyVersion">
+       <int>1000</int>
+      </void>
+      <void property="documentType">
+       <string>4</string>
+      </void>
+      <void property="documentTypeId">
+       <string></string>
+      </void>
+      <void property="expirationDate">
+       <object class="com.sun.org.apache.xerces.internal.jaxp.datatype.XMLGregorianCalendarImpl"/>
+      </void>
+      <void property="iconId">
+       <int>0</int>
+      </void>
+      <void property="inheritSecurity">
+       <boolean>true</boolean>
+      </void>
+      <void property="keyWord">
+       <string></string>
+      </void>
+      <void property="languageId">
+       <string></string>
+      </void>
+      <void property="lastModifiedDate">
+       <object class="com.sun.org.apache.xerces.internal.jaxp.datatype.XMLGregorianCalendarImpl"/>
+      </void>
+      <void property="parentDocumentId">
+       <int>1405</int>
+      </void>
+      <void property="phisicalFile">
+       <string>MODAL_FLUIG.html</string>
+      </void>
+      <void property="phisicalFileSize">
+       <float>8.28743E-4</float>
+      </void>
+      <void property="publisherId">
+       <string>0001</string>
+      </void>
+      <void property="relatedFiles">
+       <string>MODAL_FLUIG.html custom.js</string>
+      </void>
+      <void property="topicId">
+       <int>0</int>
+      </void>
+      <void property="validationStartDate">
+       <object class="com.sun.org.apache.xerces.internal.jaxp.datatype.XMLGregorianCalendarImpl"/>
+      </void>
+      <void property="version">
+       <int>1000</int>
+      </void>
+      <void property="versionDescription">
+       <string></string>
+      </void>
+      <void property="volumeId">
+       <string>Default</string>
+      </void>
+     </object>
+    </void>
+    <void method="add">
+     <object class="com.totvs.tds.ecm.foundation.ws.DocumentDto">
+      <void property="UUID">
+       <string>C5F9760F-4D80-4542-9431-00090CF02067</string>
+      </void>
+      <void property="accessCount">
+       <int>0</int>
+      </void>
+      <void property="additionalComments">
+       <string></string>
+      </void>
+      <void property="cardDescription">
+       <string></string>
+      </void>
+      <void property="colleagueId">
+       <string>admin</string>
+      </void>
+      <void property="companyId">
+       <int>1</int>
+      </void>
+      <void property="createDate">
+       <object class="com.sun.org.apache.xerces.internal.jaxp.datatype.XMLGregorianCalendarImpl"/>
+      </void>
+      <void property="datasetName">
+       <string>ds_chamados</string>
+      </void>
+      <void property="documentDescription">
+       <string>Chamados</string>
+      </void>
+      <void property="documentId">
+       <int>1538</int>
+      </void>
+      <void property="documentPropertyNumber">
+       <int>1538</int>
+      </void>
+      <void property="documentPropertyVersion">
+       <int>53000</int>
+      </void>
+      <void property="documentType">
+       <string>4</string>
+      </void>
+      <void property="documentTypeId">
+       <string></string>
+      </void>
+      <void property="expirationDate">
+       <object class="com.sun.org.apache.xerces.internal.jaxp.datatype.XMLGregorianCalendarImpl"/>
+      </void>
+      <void property="iconId">
+       <int>0</int>
+      </void>
+      <void property="inheritSecurity">
+       <boolean>true</boolean>
+      </void>
+      <void property="keyWord">
+       <string></string>
+      </void>
+      <void property="languageId">
+       <string></string>
+      </void>
+      <void property="lastModifiedDate">
+       <object class="com.sun.org.apache.xerces.internal.jaxp.datatype.XMLGregorianCalendarImpl"/>
+      </void>
+      <void property="parentDocumentId">
+       <int>1537</int>
+      </void>
+      <void property="phisicalFile">
+       <string>abertura_de_chamados_form.html</string>
+      </void>
+      <void property="phisicalFileSize">
+       <float>0.0197039</float>
+      </void>
+      <void property="publisherId">
+       <string>admin</string>
+      </void>
+      <void property="relatedFiles">
+       <string>abertura_de_chamados_form.html main.css main.js</string>
+      </void>
+      <void property="topicId">
+       <int>0</int>
+      </void>
+      <void property="validationStartDate">
+       <object class="com.sun.org.apache.xerces.internal.jaxp.datatype.XMLGregorianCalendarImpl"/>
+      </void>
+      <void property="version">
+       <int>53000</int>
+      </void>
+      <void property="versionDescription">
+       <string></string>
+      </void>
+      <void property="volumeId">
+       <string>Default</string>
+      </void>
+     </object>
+    </void>
+    <void method="add">
+     <object class="com.totvs.tds.ecm.foundation.ws.DocumentDto">
+      <void property="UUID">
+       <string>C4431A3F-1911-485F-9FE3-CAC37A32B27B</string>
+      </void>
+      <void property="accessCount">
+       <int>0</int>
+      </void>
+      <void property="additionalComments">
+       <string></string>
+      </void>
+      <void property="cardDescription">
+       <string></string>
+      </void>
+      <void property="colleagueId">
+       <string>admin</string>
+      </void>
+      <void property="companyId">
+       <int>1</int>
+      </void>
+      <void property="createDate">
+       <object class="com.sun.org.apache.xerces.internal.jaxp.datatype.XMLGregorianCalendarImpl"/>
+      </void>
+      <void property="datasetName">
+       <string>ds_empresas</string>
+      </void>
+      <void property="documentDescription">
+       <string>Empresas</string>
+      </void>
+      <void property="documentId">
+       <int>1539</int>
+      </void>
+      <void property="documentPropertyNumber">
+       <int>1539</int>
+      </void>
+      <void property="documentPropertyVersion">
+       <int>8000</int>
+      </void>
+      <void property="documentType">
+       <string>4</string>
+      </void>
+      <void property="documentTypeId">
+       <string></string>
+      </void>
+      <void property="expirationDate">
+       <object class="com.sun.org.apache.xerces.internal.jaxp.datatype.XMLGregorianCalendarImpl"/>
+      </void>
+      <void property="iconId">
+       <int>0</int>
+      </void>
+      <void property="inheritSecurity">
+       <boolean>true</boolean>
+      </void>
+      <void property="keyWord">
+       <string></string>
+      </void>
+      <void property="languageId">
+       <string></string>
+      </void>
+      <void property="lastModifiedDate">
+       <object class="com.sun.org.apache.xerces.internal.jaxp.datatype.XMLGregorianCalendarImpl"/>
+      </void>
+      <void property="parentDocumentId">
+       <int>1537</int>
+      </void>
+      <void property="phisicalFile">
+       <string>formCadastroEmpresas.html</string>
+      </void>
+      <void property="phisicalFileSize">
+       <float>0.00818825</float>
+      </void>
+      <void property="publisherId">
+       <string>admin</string>
+      </void>
+      <void property="relatedFiles">
+       <string>formCadastroEmpresas.html main.js</string>
+      </void>
+      <void property="topicId">
+       <int>0</int>
+      </void>
+      <void property="validationStartDate">
+       <object class="com.sun.org.apache.xerces.internal.jaxp.datatype.XMLGregorianCalendarImpl"/>
+      </void>
+      <void property="version">
+       <int>8000</int>
+      </void>
+      <void property="versionDescription">
+       <string></string>
+      </void>
+      <void property="volumeId">
+       <string>Default</string>
+      </void>
+     </object>
+    </void>
+    <void method="add">
+     <object class="com.totvs.tds.ecm.foundation.ws.DocumentDto">
+      <void property="UUID">
+       <string>D6D65C78-F695-4281-91D8-4F610F57304D</string>
+      </void>
+      <void property="accessCount">
+       <int>0</int>
+      </void>
+      <void property="additionalComments">
+       <string></string>
+      </void>
+      <void property="cardDescription">
+       <string></string>
+      </void>
+      <void property="colleagueId">
+       <string>admin</string>
+      </void>
+      <void property="companyId">
+       <int>1</int>
+      </void>
+      <void property="createDate">
+       <object class="com.sun.org.apache.xerces.internal.jaxp.datatype.XMLGregorianCalendarImpl"/>
+      </void>
+      <void property="datasetName">
+       <string>ds_servicos</string>
+      </void>
+      <void property="documentDescription">
+       <string>Servicos</string>
+      </void>
+      <void property="documentId">
+       <int>1540</int>
+      </void>
+      <void property="documentPropertyNumber">
+       <int>1540</int>
+      </void>
+      <void property="documentPropertyVersion">
+       <int>2000</int>
+      </void>
+      <void property="documentType">
+       <string>4</string>
+      </void>
+      <void property="documentTypeId">
+       <string></string>
+      </void>
+      <void property="expirationDate">
+       <object class="com.sun.org.apache.xerces.internal.jaxp.datatype.XMLGregorianCalendarImpl"/>
+      </void>
+      <void property="iconId">
+       <int>0</int>
+      </void>
+      <void property="inheritSecurity">
+       <boolean>true</boolean>
+      </void>
+      <void property="keyWord">
+       <string></string>
+      </void>
+      <void property="languageId">
+       <string></string>
+      </void>
+      <void property="lastModifiedDate">
+       <object class="com.sun.org.apache.xerces.internal.jaxp.datatype.XMLGregorianCalendarImpl"/>
+      </void>
+      <void property="parentDocumentId">
+       <int>1537</int>
+      </void>
+      <void property="phisicalFile">
+       <string>formCadastroServicos.html</string>
+      </void>
+      <void property="phisicalFileSize">
+       <float>0.00314045</float>
+      </void>
+      <void property="publisherId">
+       <string>admin</string>
+      </void>
+      <void property="relatedFiles">
+       <string>formCadastroServicos.css formCadastroServicos.html</string>
+      </void>
+      <void property="topicId">
+       <int>0</int>
+      </void>
+      <void property="validationStartDate">
+       <object class="com.sun.org.apache.xerces.internal.jaxp.datatype.XMLGregorianCalendarImpl"/>
+      </void>
+      <void property="version">
+       <int>2000</int>
+      </void>
+      <void property="versionDescription">
+       <string></string>
+      </void>
+      <void property="volumeId">
+       <string>Default</string>
+      </void>
+     </object>
+    </void>
+    <void method="add">
+     <object class="com.totvs.tds.ecm.foundation.ws.DocumentDto">
+      <void property="UUID">
+       <string>32BE3948-5073-4C11-9980-90F5BDF2EF26</string>
+      </void>
+      <void property="accessCount">
+       <int>0</int>
+      </void>
+      <void property="additionalComments">
+       <string></string>
+      </void>
+      <void property="cardDescription">
+       <string></string>
+      </void>
+      <void property="colleagueId">
+       <string>admin</string>
+      </void>
+      <void property="companyId">
+       <int>1</int>
+      </void>
+      <void property="createDate">
+       <object class="com.sun.org.apache.xerces.internal.jaxp.datatype.XMLGregorianCalendarImpl"/>
+      </void>
+      <void property="datasetName">
+       <string>ds_form_motivo_sac</string>
+      </void>
+      <void property="documentDescription">
+       <string>Form_motivo_sac</string>
+      </void>
+      <void property="documentId">
+       <int>1880</int>
+      </void>
+      <void property="documentPropertyNumber">
+       <int>1880</int>
+      </void>
+      <void property="documentPropertyVersion">
+       <int>3000</int>
+      </void>
+      <void property="documentType">
+       <string>4</string>
+      </void>
+      <void property="documentTypeId">
+       <string></string>
+      </void>
+      <void property="expirationDate">
+       <object class="com.sun.org.apache.xerces.internal.jaxp.datatype.XMLGregorianCalendarImpl"/>
+      </void>
+      <void property="iconId">
+       <int>0</int>
+      </void>
+      <void property="inheritSecurity">
+       <boolean>true</boolean>
+      </void>
+      <void property="keyWord">
+       <string></string>
+      </void>
+      <void property="languageId">
+       <string></string>
+      </void>
+      <void property="lastModifiedDate">
+       <object class="com.sun.org.apache.xerces.internal.jaxp.datatype.XMLGregorianCalendarImpl"/>
+      </void>
+      <void property="parentDocumentId">
+       <int>1879</int>
+      </void>
+      <void property="phisicalFile">
+       <string>Form_motivo_sac.html</string>
+      </void>
+      <void property="phisicalFileSize">
+       <float>0.00681877</float>
+      </void>
+      <void property="publisherId">
+       <string>admin</string>
+      </void>
+      <void property="relatedFiles">
+       <string>Form_motivo_sac.html main.js</string>
+      </void>
+      <void property="topicId">
+       <int>0</int>
+      </void>
+      <void property="validationStartDate">
+       <object class="com.sun.org.apache.xerces.internal.jaxp.datatype.XMLGregorianCalendarImpl"/>
+      </void>
+      <void property="version">
+       <int>3000</int>
+      </void>
+      <void property="versionDescription">
+       <string></string>
+      </void>
+      <void property="volumeId">
+       <string>Default</string>
+      </void>
+     </object>
+    </void>
+    <void method="add">
+     <object class="com.totvs.tds.ecm.foundation.ws.DocumentDto">
+      <void property="UUID">
+       <string>07CD745E-07F7-4E73-BE1A-3088D93497BA</string>
+      </void>
+      <void property="accessCount">
+       <int>0</int>
+      </void>
+      <void property="additionalComments">
+       <string></string>
+      </void>
+      <void property="cardDescription">
+       <string></string>
+      </void>
+      <void property="colleagueId">
+       <string>admin</string>
+      </void>
+      <void property="companyId">
+       <int>1</int>
+      </void>
+      <void property="createDate">
+       <object class="com.sun.org.apache.xerces.internal.jaxp.datatype.XMLGregorianCalendarImpl"/>
+      </void>
+      <void property="datasetName">
+       <string>DSSAC_CORPORATIVO</string>
+      </void>
+      <void property="documentDescription">
+       <string>SAC_CORPORATIVO</string>
+      </void>
+      <void property="documentId">
+       <int>1881</int>
+      </void>
+      <void property="documentPropertyNumber">
+       <int>1881</int>
+      </void>
+      <void property="documentPropertyVersion">
+       <int>4000</int>
+      </void>
+      <void property="documentType">
+       <string>4</string>
+      </void>
+      <void property="documentTypeId">
+       <string></string>
+      </void>
+      <void property="expirationDate">
+       <object class="com.sun.org.apache.xerces.internal.jaxp.datatype.XMLGregorianCalendarImpl"/>
+      </void>
+      <void property="iconId">
+       <int>0</int>
+      </void>
+      <void property="inheritSecurity">
+       <boolean>true</boolean>
+      </void>
+      <void property="keyWord">
+       <string></string>
+      </void>
+      <void property="languageId">
+       <string></string>
+      </void>
+      <void property="lastModifiedDate">
+       <object class="com.sun.org.apache.xerces.internal.jaxp.datatype.XMLGregorianCalendarImpl"/>
+      </void>
+      <void property="parentDocumentId">
+       <int>1879</int>
+      </void>
+      <void property="phisicalFile">
+       <string>Form_SAC_Corporativo.html</string>
+      </void>
+      <void property="phisicalFileSize">
+       <float>0.244381</float>
+      </void>
+      <void property="publisherId">
+       <string>admin</string>
+      </void>
+      <void property="relatedFiles">
+       <string>Form_SAC_Corporativo.html Logo Final - iv2.png logoiv2png.png main.css main.js</string>
+      </void>
+      <void property="topicId">
+       <int>0</int>
+      </void>
+      <void property="validationStartDate">
+       <object class="com.sun.org.apache.xerces.internal.jaxp.datatype.XMLGregorianCalendarImpl"/>
+      </void>
+      <void property="version">
+       <int>4000</int>
+      </void>
+      <void property="versionDescription">
+       <string></string>
+      </void>
+      <void property="volumeId">
+       <string>Default</string>
+      </void>
+     </object>
+    </void>
+    <void method="add">
+     <object class="com.totvs.tds.ecm.foundation.ws.DocumentDto">
+      <void property="UUID">
+       <string>F9929D61-B0B4-423E-BB50-36ED3D8EDC02</string>
+      </void>
+      <void property="accessCount">
+       <int>0</int>
+      </void>
+      <void property="additionalComments">
+       <string></string>
+      </void>
+      <void property="cardDescription">
+       <string></string>
+      </void>
+      <void property="colleagueId">
+       <string>admin</string>
+      </void>
+      <void property="companyId">
+       <int>1</int>
+      </void>
+      <void property="createDate">
+       <object class="com.sun.org.apache.xerces.internal.jaxp.datatype.XMLGregorianCalendarImpl"/>
+      </void>
+      <void property="datasetName">
+       <string>ds_cadastroSubEventos</string>
+      </void>
+      <void property="documentDescription">
+       <string>Cadastro de Sub Eventos</string>
+      </void>
+      <void property="documentId">
+       <int>1896</int>
+      </void>
+      <void property="documentPropertyNumber">
+       <int>1896</int>
+      </void>
+      <void property="documentPropertyVersion">
+       <int>33000</int>
+      </void>
+      <void property="documentType">
+       <string>4</string>
+      </void>
+      <void property="documentTypeId">
+       <string></string>
+      </void>
+      <void property="expirationDate">
+       <object class="com.sun.org.apache.xerces.internal.jaxp.datatype.XMLGregorianCalendarImpl"/>
+      </void>
+      <void property="iconId">
+       <int>0</int>
+      </void>
+      <void property="inheritSecurity">
+       <boolean>true</boolean>
+      </void>
+      <void property="keyWord">
+       <string></string>
+      </void>
+      <void property="languageId">
+       <string></string>
+      </void>
+      <void property="lastModifiedDate">
+       <object class="com.sun.org.apache.xerces.internal.jaxp.datatype.XMLGregorianCalendarImpl"/>
+      </void>
+      <void property="parentDocumentId">
+       <int>1895</int>
+      </void>
+      <void property="phisicalFile">
+       <string>Francal - Cadastro de Eventos.html</string>
+      </void>
+      <void property="phisicalFileSize">
+       <float>0.0459051</float>
+      </void>
+      <void property="publisherId">
+       <string>admin</string>
+      </void>
+      <void property="relatedFiles">
+       <string>Francal - Cadastro de Eventos.html script.js</string>
+      </void>
+      <void property="topicId">
+       <int>0</int>
+      </void>
+      <void property="validationStartDate">
+       <object class="com.sun.org.apache.xerces.internal.jaxp.datatype.XMLGregorianCalendarImpl"/>
+      </void>
+      <void property="version">
+       <int>33000</int>
+      </void>
+      <void property="versionDescription">
+       <string></string>
+      </void>
+      <void property="volumeId">
+       <string>Default</string>
+      </void>
+     </object>
+    </void>
+    <void method="add">
+     <object class="com.totvs.tds.ecm.foundation.ws.DocumentDto">
+      <void property="UUID">
+       <string>BF77818F-3209-4110-B12C-72F858C592F3</string>
+      </void>
+      <void property="accessCount">
+       <int>0</int>
+      </void>
+      <void property="additionalComments">
+       <string></string>
+      </void>
+      <void property="cardDescription">
+       <string></string>
+      </void>
+      <void property="colleagueId">
+       <string>admin</string>
+      </void>
+      <void property="companyId">
+       <int>1</int>
+      </void>
+      <void property="createDate">
+       <object class="com.sun.org.apache.xerces.internal.jaxp.datatype.XMLGregorianCalendarImpl"/>
+      </void>
+      <void property="datasetName">
+       <string>TOTVSAntecipa</string>
+      </void>
+      <void property="documentDescription">
+       <string>dsTotvsAntecipa</string>
+      </void>
+      <void property="documentId">
+       <int>2593</int>
+      </void>
+      <void property="documentPropertyNumber">
+       <int>2593</int>
+      </void>
+      <void property="documentPropertyVersion">
+       <int>2000</int>
+      </void>
+      <void property="documentType">
+       <string>4</string>
+      </void>
+      <void property="documentTypeId">
+       <string></string>
+      </void>
+      <void property="expirationDate">
+       <object class="com.sun.org.apache.xerces.internal.jaxp.datatype.XMLGregorianCalendarImpl"/>
+      </void>
+      <void property="iconId">
+       <int>0</int>
+      </void>
+      <void property="inheritSecurity">
+       <boolean>true</boolean>
+      </void>
+      <void property="keyWord">
+       <string></string>
+      </void>
+      <void property="languageId">
+       <string></string>
+      </void>
+      <void property="lastModifiedDate">
+       <object class="com.sun.org.apache.xerces.internal.jaxp.datatype.XMLGregorianCalendarImpl"/>
+      </void>
+      <void property="parentDocumentId">
+       <int>2516</int>
+      </void>
+      <void property="phisicalFile">
+       <string>TOTVSAntecipa.html</string>
+      </void>
+      <void property="phisicalFileSize">
+       <float>0.0197258</float>
+      </void>
+      <void property="publisherId">
+       <string>admin</string>
+      </void>
+      <void property="relatedFiles">
+       <string>TOTVSAntecipa.html activities.js custom.js</string>
+      </void>
+      <void property="topicId">
+       <int>0</int>
+      </void>
+      <void property="validationStartDate">
+       <object class="com.sun.org.apache.xerces.internal.jaxp.datatype.XMLGregorianCalendarImpl"/>
+      </void>
+      <void property="version">
+       <int>2000</int>
+      </void>
+      <void property="versionDescription">
+       <string></string>
+      </void>
+      <void property="volumeId">
+       <string>Default</string>
+      </void>
+     </object>
+    </void>
+    <void method="add">
+     <object class="com.totvs.tds.ecm.foundation.ws.DocumentDto">
+      <void property="UUID">
+       <string>C5E9A5CB-225C-47B1-93B5-DA5D0ED55059</string>
+      </void>
+      <void property="accessCount">
+       <int>0</int>
+      </void>
+      <void property="additionalComments">
+       <string></string>
+      </void>
+      <void property="cardDescription">
+       <string></string>
+      </void>
+      <void property="colleagueId">
+       <string>admin</string>
+      </void>
+      <void property="companyId">
+       <int>1</int>
+      </void>
+      <void property="createDate">
+       <object class="com.sun.org.apache.xerces.internal.jaxp.datatype.XMLGregorianCalendarImpl"/>
+      </void>
+      <void property="datasetName">
+       <string>DSFluxodeSolicitacaodeCompras</string>
+      </void>
+      <void property="documentDescription">
+       <string>Fluxo de Solicitação de Compras</string>
+      </void>
+      <void property="documentId">
+       <int>2805</int>
+      </void>
+      <void property="documentPropertyNumber">
+       <int>2805</int>
+      </void>
+      <void property="documentPropertyVersion">
+       <int>25000</int>
+      </void>
+      <void property="documentType">
+       <string>4</string>
+      </void>
+      <void property="documentTypeId">
+       <string></string>
+      </void>
+      <void property="expirationDate">
+       <object class="com.sun.org.apache.xerces.internal.jaxp.datatype.XMLGregorianCalendarImpl"/>
+      </void>
+      <void property="iconId">
+       <int>0</int>
+      </void>
+      <void property="inheritSecurity">
+       <boolean>true</boolean>
+      </void>
+      <void property="keyWord">
+       <string></string>
+      </void>
+      <void property="languageId">
+       <string></string>
+      </void>
+      <void property="lastModifiedDate">
+       <object class="com.sun.org.apache.xerces.internal.jaxp.datatype.XMLGregorianCalendarImpl"/>
+      </void>
+      <void property="parentDocumentId">
+       <int>2802</int>
+      </void>
+      <void property="phisicalFile">
+       <string>solicitacaoCompras_SAVIS.html</string>
+      </void>
+      <void property="phisicalFileSize">
+       <float>0.0319452</float>
+      </void>
+      <void property="publisherId">
+       <string>admin</string>
+      </void>
+      <void property="relatedFiles">
+       <string>bootstrap.min.css bootstrap.min.js formScript.js jquery-3.2.1.min.js jquery.mask.js jquery.mask.min.js jquery.maskMoney.min.js select2-bootstrap.min.css select2-i18n-pt-Br.js select2.min.css select2.min.js formScript.js logoiv2png.png solicitacaoCompras_SAVIS.html style.css styleForm.css</string>
+      </void>
+      <void property="topicId">
+       <int>0</int>
+      </void>
+      <void property="validationStartDate">
+       <object class="com.sun.org.apache.xerces.internal.jaxp.datatype.XMLGregorianCalendarImpl"/>
+      </void>
+      <void property="version">
+       <int>25000</int>
+      </void>
+      <void property="versionDescription">
+       <string></string>
+      </void>
+      <void property="volumeId">
+       <string>Default</string>
+      </void>
+     </object>
+    </void>
+    <void method="add">
+     <object class="com.totvs.tds.ecm.foundation.ws.DocumentDto">
+      <void property="UUID">
+       <string>D560ECAA-3FB8-4FF3-8E4D-B9560EAFE0B5</string>
+      </void>
+      <void property="accessCount">
+       <int>0</int>
+      </void>
+      <void property="additionalComments">
+       <string></string>
+      </void>
+      <void property="cardDescription">
+       <string></string>
+      </void>
+      <void property="colleagueId">
+       <string>admin</string>
+      </void>
+      <void property="companyId">
+       <int>1</int>
+      </void>
+      <void property="createDate">
+       <object class="com.sun.org.apache.xerces.internal.jaxp.datatype.XMLGregorianCalendarImpl"/>
+      </void>
+      <void property="datasetName">
+       <string>Ds_itemFormAux</string>
+      </void>
+      <void property="documentDescription">
+       <string>Formulario_aux</string>
+      </void>
+      <void property="documentId">
+       <int>2825</int>
+      </void>
+      <void property="documentPropertyNumber">
+       <int>2825</int>
+      </void>
+      <void property="documentPropertyVersion">
+       <int>4000</int>
+      </void>
+      <void property="documentType">
+       <string>4</string>
+      </void>
+      <void property="documentTypeId">
+       <string></string>
+      </void>
+      <void property="expirationDate">
+       <object class="com.sun.org.apache.xerces.internal.jaxp.datatype.XMLGregorianCalendarImpl"/>
+      </void>
+      <void property="iconId">
+       <int>0</int>
+      </void>
+      <void property="inheritSecurity">
+       <boolean>true</boolean>
+      </void>
+      <void property="keyWord">
+       <string></string>
+      </void>
+      <void property="languageId">
+       <string></string>
+      </void>
+      <void property="lastModifiedDate">
+       <object class="com.sun.org.apache.xerces.internal.jaxp.datatype.XMLGregorianCalendarImpl"/>
+      </void>
+      <void property="parentDocumentId">
+       <int>2802</int>
+      </void>
+      <void property="phisicalFile">
+       <string>Formlario_aux.html</string>
+      </void>
+      <void property="phisicalFileSize">
+       <float>0.00401211</float>
+      </void>
+      <void property="publisherId">
+       <string>admin</string>
+      </void>
+      <void property="relatedFiles">
+       <string>Formlario_aux.html form_aux.js</string>
+      </void>
+      <void property="topicId">
+       <int>0</int>
+      </void>
+      <void property="validationStartDate">
+       <object class="com.sun.org.apache.xerces.internal.jaxp.datatype.XMLGregorianCalendarImpl"/>
+      </void>
+      <void property="version">
+       <int>4000</int>
+      </void>
+      <void property="versionDescription">
+       <string></string>
+      </void>
+      <void property="volumeId">
+       <string>Default</string>
+      </void>
+     </object>
+    </void>
+    <void method="add">
+     <object class="com.totvs.tds.ecm.foundation.ws.DocumentDto">
+      <void property="UUID">
+       <string>D8E57B81-50A7-43F9-BA9B-F4EC3C0136D5</string>
+      </void>
+      <void property="accessCount">
+       <int>0</int>
+      </void>
+      <void property="additionalComments">
+       <string></string>
+      </void>
+      <void property="cardDescription">
+       <string></string>
+      </void>
+      <void property="colleagueId">
+       <string>admin</string>
+      </void>
+      <void property="companyId">
+       <int>1</int>
+      </void>
+      <void property="createDate">
+       <object class="com.sun.org.apache.xerces.internal.jaxp.datatype.XMLGregorianCalendarImpl"/>
+      </void>
+      <void property="datasetName">
+       <string>ds_frm_processo_de_expansao</string>
+      </void>
+      <void property="documentDescription">
+       <string>Formulário Processo de Expansão</string>
+      </void>
+      <void property="documentId">
+       <int>2851</int>
+      </void>
+      <void property="documentPropertyNumber">
+       <int>2851</int>
+      </void>
+      <void property="documentPropertyVersion">
+       <int>16000</int>
+      </void>
+      <void property="documentType">
+       <string>4</string>
+      </void>
+      <void property="documentTypeId">
+       <string></string>
+      </void>
+      <void property="expirationDate">
+       <object class="com.sun.org.apache.xerces.internal.jaxp.datatype.XMLGregorianCalendarImpl"/>
+      </void>
+      <void property="iconId">
+       <int>0</int>
+      </void>
+      <void property="inheritSecurity">
+       <boolean>true</boolean>
+      </void>
+      <void property="keyWord">
+       <string></string>
+      </void>
+      <void property="languageId">
+       <string></string>
+      </void>
+      <void property="lastModifiedDate">
+       <object class="com.sun.org.apache.xerces.internal.jaxp.datatype.XMLGregorianCalendarImpl"/>
+      </void>
+      <void property="parentDocumentId">
+       <int>2850</int>
+      </void>
+      <void property="phisicalFile">
+       <string>Formulário Processo de Expansão.html</string>
+      </void>
+      <void property="phisicalFileSize">
+       <float>0.138136</float>
+      </void>
+      <void property="publisherId">
+       <string>admin</string>
+      </void>
+      <void property="relatedFiles">
+       <string>xlsx.full.min.js Formulário Processo de Expansão.html activity.js addChildTableFunctions.js annexFunctions.js approvalAuthority.js beforeSendValidate.js cep.js cleaningInputsFunctions.js dateFunctions.js disablingInputs.js disablingInputsView.js dynamicAsterisk.js excelFunctions.js jquery.fileupload.min.js estados.json municipios.json leaflet-search.css leaflet-search.js main.js map.js loader.gif marker-icon-2x-blue.png marker-icon-2x-gold.png marker-icon-2x-green.png marker-icon-2x-red.png marker-icon-2x-violet.png search-icon.png maskFunctions.js onloadChildTableFunctions.js onloadChildTableFunctionsView.js onloadFunctions.js relatedHiddenFieldsFunctions.js relatedTableFunctions.js removeChildTableFunctions.js showHIdeApprovalTextArea.js showHIdeApprovalTextAreaView.js showHideElementsFunctions.js showHideElementsFunctionsView.js style.css styleMap.css zoomFunctions.js zoomFunctionsOnload.js</string>
+      </void>
+      <void property="topicId">
+       <int>0</int>
+      </void>
+      <void property="validationStartDate">
+       <object class="com.sun.org.apache.xerces.internal.jaxp.datatype.XMLGregorianCalendarImpl"/>
+      </void>
+      <void property="version">
+       <int>16000</int>
+      </void>
+      <void property="versionDescription">
+       <string></string>
+      </void>
+      <void property="volumeId">
+       <string>Default</string>
+      </void>
+     </object>
+    </void>
+    <void method="add">
+     <object class="com.totvs.tds.ecm.foundation.ws.DocumentDto">
+      <void property="UUID">
+       <string>547BDB79-81BB-4E1D-BAB1-D375DB6B98E0</string>
+      </void>
+      <void property="accessCount">
+       <int>0</int>
+      </void>
+      <void property="additionalComments">
+       <string></string>
+      </void>
+      <void property="cardDescription">
+       <string></string>
+      </void>
+      <void property="colleagueId">
+       <string>admin</string>
+      </void>
+      <void property="companyId">
+       <int>1</int>
+      </void>
+      <void property="createDate">
+       <object class="com.sun.org.apache.xerces.internal.jaxp.datatype.XMLGregorianCalendarImpl"/>
+      </void>
+      <void property="datasetName">
+       <string>ds_aprovacao_corporativa</string>
+      </void>
+      <void property="documentDescription">
+       <string>aprovacao_corporativa</string>
+      </void>
+      <void property="documentId">
+       <int>2891</int>
+      </void>
+      <void property="documentPropertyNumber">
+       <int>2891</int>
+      </void>
+      <void property="documentPropertyVersion">
+       <int>1000</int>
+      </void>
+      <void property="documentType">
+       <string>4</string>
+      </void>
+      <void property="documentTypeId">
+       <string></string>
+      </void>
+      <void property="expirationDate">
+       <object class="com.sun.org.apache.xerces.internal.jaxp.datatype.XMLGregorianCalendarImpl"/>
+      </void>
+      <void property="iconId">
+       <int>0</int>
+      </void>
+      <void property="inheritSecurity">
+       <boolean>true</boolean>
+      </void>
+      <void property="keyWord">
+       <string></string>
+      </void>
+      <void property="languageId">
+       <string></string>
+      </void>
+      <void property="lastModifiedDate">
+       <object class="com.sun.org.apache.xerces.internal.jaxp.datatype.XMLGregorianCalendarImpl"/>
+      </void>
+      <void property="parentDocumentId">
+       <int>2890</int>
+      </void>
+      <void property="phisicalFile">
+       <string>aprovacao_corporativa.html</string>
+      </void>
+      <void property="phisicalFileSize">
+       <float>0.231203</float>
+      </void>
+      <void property="publisherId">
+       <string>admin</string>
+      </void>
+      <void property="relatedFiles">
+       <string>Logo Final - iv2.png aprovacao_corporativa.html logoiv2png.png main.js style.css</string>
+      </void>
+      <void property="topicId">
+       <int>0</int>
+      </void>
+      <void property="validationStartDate">
+       <object class="com.sun.org.apache.xerces.internal.jaxp.datatype.XMLGregorianCalendarImpl"/>
+      </void>
+      <void property="version">
+       <int>1000</int>
+      </void>
+      <void property="versionDescription">
+       <string></string>
+      </void>
+      <void property="volumeId">
+       <string>Default</string>
+      </void>
+     </object>
+    </void>
+    <void method="add">
+     <object class="com.totvs.tds.ecm.foundation.ws.DocumentDto">
+      <void property="UUID">
+       <string>AF6E47AC-6AC8-4511-A7C1-A4525F0CCF8A</string>
+      </void>
+      <void property="accessCount">
+       <int>0</int>
+      </void>
+      <void property="additionalComments">
+       <string></string>
+      </void>
+      <void property="colleagueId">
+       <string>admin</string>
+      </void>
+      <void property="companyId">
+       <int>1</int>
+      </void>
+      <void property="createDate">
+       <object class="com.sun.org.apache.xerces.internal.jaxp.datatype.XMLGregorianCalendarImpl"/>
+      </void>
+      <void property="datasetName">
+       <string>ds_form_aux_aprovacao_corporativa</string>
+      </void>
+      <void property="documentDescription">
+       <string>form_aux_aprovacao_corporativa</string>
+      </void>
+      <void property="documentId">
+       <int>2892</int>
+      </void>
+      <void property="documentPropertyNumber">
+       <int>2892</int>
+      </void>
+      <void property="documentPropertyVersion">
+       <int>1000</int>
+      </void>
+      <void property="documentType">
+       <string>4</string>
+      </void>
+      <void property="documentTypeId">
+       <string></string>
+      </void>
+      <void property="expirationDate">
+       <object class="com.sun.org.apache.xerces.internal.jaxp.datatype.XMLGregorianCalendarImpl"/>
+      </void>
+      <void property="iconId">
+       <int>0</int>
+      </void>
+      <void property="inheritSecurity">
+       <boolean>true</boolean>
+      </void>
+      <void property="keyWord">
+       <string></string>
+      </void>
+      <void property="languageId">
+       <string></string>
+      </void>
+      <void property="lastModifiedDate">
+       <object class="com.sun.org.apache.xerces.internal.jaxp.datatype.XMLGregorianCalendarImpl"/>
+      </void>
+      <void property="parentDocumentId">
+       <int>2890</int>
+      </void>
+      <void property="phisicalFile">
+       <string>form_aux_aprovacao_corporativa.html</string>
+      </void>
+      <void property="phisicalFileSize">
+       <float>0.00361824</float>
+      </void>
+      <void property="publisherId">
+       <string>admin</string>
+      </void>
+      <void property="relatedFiles">
+       <string>form_aux_aprovacao_corporativa.html main.js</string>
+      </void>
+      <void property="topicId">
+       <int>0</int>
+      </void>
+      <void property="validationStartDate">
+       <object class="com.sun.org.apache.xerces.internal.jaxp.datatype.XMLGregorianCalendarImpl"/>
+      </void>
+      <void property="version">
+       <int>1000</int>
+      </void>
+      <void property="versionDescription">
+       <string></string>
+      </void>
+      <void property="volumeId">
+       <string>Default</string>
+      </void>
+     </object>
+    </void>
+    <void method="add">
+     <object class="com.totvs.tds.ecm.foundation.ws.DocumentDto">
+      <void property="UUID">
+       <string>182A2F6F-F7BE-42B9-A28C-1477B4F304DF</string>
+      </void>
+      <void property="accessCount">
+       <int>0</int>
+      </void>
+      <void property="additionalComments">
+       <string></string>
+      </void>
+      <void property="cardDescription">
+       <string></string>
+      </void>
+      <void property="colleagueId">
+       <string>admin</string>
+      </void>
+      <void property="companyId">
+       <int>1</int>
+      </void>
+      <void property="createDate">
+       <object class="com.sun.org.apache.xerces.internal.jaxp.datatype.XMLGregorianCalendarImpl"/>
+      </void>
+      <void property="datasetName">
+       <string>ds_frm_especies_a_trabalhar</string>
+      </void>
+      <void property="documentDescription">
+       <string>Espécies a Trabalhar</string>
+      </void>
+      <void property="documentId">
+       <int>2903</int>
+      </void>
+      <void property="documentPropertyNumber">
+       <int>2903</int>
+      </void>
+      <void property="documentPropertyVersion">
+       <int>1000</int>
+      </void>
+      <void property="documentType">
+       <string>4</string>
+      </void>
+      <void property="documentTypeId">
+       <string></string>
+      </void>
+      <void property="expirationDate">
+       <object class="com.sun.org.apache.xerces.internal.jaxp.datatype.XMLGregorianCalendarImpl"/>
+      </void>
+      <void property="iconId">
+       <int>0</int>
+      </void>
+      <void property="inheritSecurity">
+       <boolean>true</boolean>
+      </void>
+      <void property="keyWord">
+       <string></string>
+      </void>
+      <void property="languageId">
+       <string></string>
+      </void>
+      <void property="lastModifiedDate">
+       <object class="com.sun.org.apache.xerces.internal.jaxp.datatype.XMLGregorianCalendarImpl"/>
+      </void>
+      <void property="parentDocumentId">
+       <int>2850</int>
+      </void>
+      <void property="phisicalFile">
+       <string>Espécies a Trabalhar.html</string>
+      </void>
+      <void property="phisicalFileSize">
+       <float>0.00130367</float>
+      </void>
+      <void property="publisherId">
+       <string>admin</string>
+      </void>
+      <void property="relatedFiles">
+       <string>Espécies a Trabalhar.html</string>
+      </void>
+      <void property="topicId">
+       <int>0</int>
+      </void>
+      <void property="validationStartDate">
+       <object class="com.sun.org.apache.xerces.internal.jaxp.datatype.XMLGregorianCalendarImpl"/>
+      </void>
+      <void property="version">
+       <int>1000</int>
+      </void>
+      <void property="versionDescription">
+       <string></string>
+      </void>
+      <void property="volumeId">
+       <string>Default</string>
+      </void>
+     </object>
+    </void>
+    <void method="add">
+     <object class="com.totvs.tds.ecm.foundation.ws.DocumentDto">
+      <void property="UUID">
+       <string>02DBD818-17B1-49F8-ADFA-E2779DC88A0B</string>
+      </void>
+      <void property="accessCount">
+       <int>0</int>
+      </void>
+      <void property="additionalComments">
+       <string></string>
+      </void>
+      <void property="cardDescription">
+       <string>hidden_descriptionForm</string>
+      </void>
+      <void property="colleagueId">
+       <string>admin</string>
+      </void>
+      <void property="companyId">
+       <int>1</int>
+      </void>
+      <void property="createDate">
+       <object class="com.sun.org.apache.xerces.internal.jaxp.datatype.XMLGregorianCalendarImpl"/>
+      </void>
+      <void property="datasetName">
+       <string>ds_frm_coordenador_responsavel</string>
+      </void>
+      <void property="documentDescription">
+       <string>Coordenador Responsável</string>
+      </void>
+      <void property="documentId">
+       <int>2904</int>
+      </void>
+      <void property="documentPropertyNumber">
+       <int>2904</int>
+      </void>
+      <void property="documentPropertyVersion">
+       <int>5000</int>
+      </void>
+      <void property="documentType">
+       <string>4</string>
+      </void>
+      <void property="documentTypeId">
+       <string></string>
+      </void>
+      <void property="expirationDate">
+       <object class="com.sun.org.apache.xerces.internal.jaxp.datatype.XMLGregorianCalendarImpl"/>
+      </void>
+      <void property="iconId">
+       <int>0</int>
+      </void>
+      <void property="inheritSecurity">
+       <boolean>true</boolean>
+      </void>
+      <void property="keyWord">
+       <string></string>
+      </void>
+      <void property="languageId">
+       <string></string>
+      </void>
+      <void property="lastModifiedDate">
+       <object class="com.sun.org.apache.xerces.internal.jaxp.datatype.XMLGregorianCalendarImpl"/>
+      </void>
+      <void property="parentDocumentId">
+       <int>2850</int>
+      </void>
+      <void property="phisicalFile">
+       <string>Coordenador Responsável.html</string>
+      </void>
+      <void property="phisicalFileSize">
+       <float>0.00452614</float>
+      </void>
+      <void property="publisherId">
+       <string>admin</string>
+      </void>
+      <void property="relatedFiles">
+       <string>Coordenador Responsável.html hiddenFieldsFunctions.js main.js style.css zoomFunctions.js</string>
+      </void>
+      <void property="topicId">
+       <int>0</int>
+      </void>
+      <void property="validationStartDate">
+       <object class="com.sun.org.apache.xerces.internal.jaxp.datatype.XMLGregorianCalendarImpl"/>
+      </void>
+      <void property="version">
+       <int>5000</int>
+      </void>
+      <void property="versionDescription">
+       <string></string>
+      </void>
+      <void property="volumeId">
+       <string>Default</string>
+      </void>
+     </object>
+    </void>
+    <void method="add">
+     <object class="com.totvs.tds.ecm.foundation.ws.DocumentDto">
+      <void property="UUID">
+       <string>5587ACC8-5D07-4E83-80FB-61C90772F838</string>
+      </void>
+      <void property="accessCount">
+       <int>0</int>
+      </void>
+      <void property="additionalComments">
+       <string></string>
+      </void>
+      <void property="cardDescription">
+       <string></string>
+      </void>
+      <void property="colleagueId">
+       <string>admin</string>
+      </void>
+      <void property="companyId">
+       <int>1</int>
+      </void>
+      <void property="createDate">
+       <object class="com.sun.org.apache.xerces.internal.jaxp.datatype.XMLGregorianCalendarImpl"/>
+      </void>
+      <void property="datasetName">
+       <string>ds_frm_minimo_garantido</string>
+      </void>
+      <void property="documentDescription">
+       <string>Formulário Mínimo Garantido</string>
+      </void>
+      <void property="documentId">
+       <int>2905</int>
+      </void>
+      <void property="documentPropertyNumber">
+       <int>2905</int>
+      </void>
+      <void property="documentPropertyVersion">
+       <int>11000</int>
+      </void>
+      <void property="documentType">
+       <string>4</string>
+      </void>
+      <void property="documentTypeId">
+       <string></string>
+      </void>
+      <void property="expirationDate">
+       <object class="com.sun.org.apache.xerces.internal.jaxp.datatype.XMLGregorianCalendarImpl"/>
+      </void>
+      <void property="iconId">
+       <int>0</int>
+      </void>
+      <void property="inheritSecurity">
+       <boolean>true</boolean>
+      </void>
+      <void property="keyWord">
+       <string></string>
+      </void>
+      <void property="languageId">
+       <string></string>
+      </void>
+      <void property="lastModifiedDate">
+       <object class="com.sun.org.apache.xerces.internal.jaxp.datatype.XMLGregorianCalendarImpl"/>
+      </void>
+      <void property="parentDocumentId">
+       <int>2850</int>
+      </void>
+      <void property="phisicalFile">
+       <string>Formulário Mínimo Garantido.html</string>
+      </void>
+      <void property="phisicalFileSize">
+       <float>0.0237999</float>
+      </void>
+      <void property="publisherId">
+       <string>admin</string>
+      </void>
+      <void property="relatedFiles">
+       <string>Formulário Mínimo Garantido.html activity.js approvalAuthority.js beforeSendValidate.js disablingInputs.js disablingInputsView.js enablingInputs.js main.js mainAddChildTableFunctions.js mainOnloadChildTableFunctions.js maskFunctions.js relatedTableFunctions.js renovationMinGarantido.js showHIdeApprovalTextArea.js showHIdeApprovalTextAreaView.js style.css</string>
+      </void>
+      <void property="topicId">
+       <int>0</int>
+      </void>
+      <void property="validationStartDate">
+       <object class="com.sun.org.apache.xerces.internal.jaxp.datatype.XMLGregorianCalendarImpl"/>
+      </void>
+      <void property="version">
+       <int>11000</int>
+      </void>
+      <void property="versionDescription">
+       <string></string>
+      </void>
+      <void property="volumeId">
+       <string>Default</string>
+      </void>
+     </object>
+    </void>
+    <void method="add">
+     <object class="com.totvs.tds.ecm.foundation.ws.DocumentDto">
+      <void property="UUID">
+       <string>C6422980-84FB-461B-A761-88219B3AE1BE</string>
+      </void>
+      <void property="accessCount">
+       <int>0</int>
+      </void>
+      <void property="additionalComments">
+       <string></string>
+      </void>
+      <void property="cardDescription">
+       <string></string>
+      </void>
+      <void property="colleagueId">
+       <string>admin</string>
+      </void>
+      <void property="companyId">
+       <int>1</int>
+      </void>
+      <void property="createDate">
+       <object class="com.sun.org.apache.xerces.internal.jaxp.datatype.XMLGregorianCalendarImpl"/>
+      </void>
+      <void property="datasetName">
+       <string>ds_afip_teste</string>
+      </void>
+      <void property="documentDescription">
+       <string>afip_teste</string>
+      </void>
+      <void property="documentId">
+       <int>3167</int>
+      </void>
+      <void property="documentPropertyNumber">
+       <int>3167</int>
+      </void>
+      <void property="documentPropertyVersion">
+       <int>1000</int>
+      </void>
+      <void property="documentType">
+       <string>4</string>
+      </void>
+      <void property="documentTypeId">
+       <string></string>
+      </void>
+      <void property="expirationDate">
+       <object class="com.sun.org.apache.xerces.internal.jaxp.datatype.XMLGregorianCalendarImpl"/>
+      </void>
+      <void property="iconId">
+       <int>0</int>
+      </void>
+      <void property="inheritSecurity">
+       <boolean>true</boolean>
+      </void>
+      <void property="keyWord">
+       <string></string>
+      </void>
+      <void property="languageId">
+       <string></string>
+      </void>
+      <void property="lastModifiedDate">
+       <object class="com.sun.org.apache.xerces.internal.jaxp.datatype.XMLGregorianCalendarImpl"/>
+      </void>
+      <void property="parentDocumentId">
+       <int>2</int>
+      </void>
+      <void property="phisicalFile">
+       <string>afip_teste.html</string>
+      </void>
+      <void property="phisicalFileSize">
+       <float>6.11305E-4</float>
+      </void>
+      <void property="publisherId">
+       <string>admin</string>
+      </void>
+      <void property="relatedFiles">
+       <string>afip_teste.html</string>
+      </void>
+      <void property="topicId">
+       <int>0</int>
+      </void>
+      <void property="validationStartDate">
+       <object class="com.sun.org.apache.xerces.internal.jaxp.datatype.XMLGregorianCalendarImpl"/>
+      </void>
+      <void property="version">
+       <int>1000</int>
+      </void>
+      <void property="versionDescription">
+       <string></string>
+      </void>
+      <void property="volumeId">
+       <string>Default</string>
+      </void>
+     </object>
+    </void>
+    <void method="add">
+     <object class="com.totvs.tds.ecm.foundation.ws.DocumentDto">
+      <void property="UUID">
+       <string>3518248B-817B-486F-900D-CC5855AA01CE</string>
+      </void>
+      <void property="accessCount">
+       <int>0</int>
+      </void>
+      <void property="additionalComments">
+       <string></string>
+      </void>
+      <void property="cardDescription">
+       <string></string>
+      </void>
+      <void property="colleagueId">
+       <string>admin</string>
+      </void>
+      <void property="companyId">
+       <int>1</int>
+      </void>
+      <void property="createDate">
+       <object class="com.sun.org.apache.xerces.internal.jaxp.datatype.XMLGregorianCalendarImpl"/>
+      </void>
+      <void property="datasetName">
+       <string>ds_frm_aprovacao_armc</string>
+      </void>
+      <void property="documentDescription">
+       <string>Formulário Aprovação de ARMC</string>
+      </void>
+      <void property="documentId">
+       <int>3199</int>
+      </void>
+      <void property="documentPropertyNumber">
+       <int>3199</int>
+      </void>
+      <void property="documentPropertyVersion">
+       <int>5000</int>
+      </void>
+      <void property="documentType">
+       <string>4</string>
+      </void>
+      <void property="documentTypeId">
+       <string></string>
+      </void>
+      <void property="expirationDate">
+       <object class="com.sun.org.apache.xerces.internal.jaxp.datatype.XMLGregorianCalendarImpl"/>
+      </void>
+      <void property="iconId">
+       <int>0</int>
+      </void>
+      <void property="inheritSecurity">
+       <boolean>true</boolean>
+      </void>
+      <void property="keyWord">
+       <string></string>
+      </void>
+      <void property="languageId">
+       <string></string>
+      </void>
+      <void property="lastModifiedDate">
+       <object class="com.sun.org.apache.xerces.internal.jaxp.datatype.XMLGregorianCalendarImpl"/>
+      </void>
+      <void property="parentDocumentId">
+       <int>3198</int>
+      </void>
+      <void property="phisicalFile">
+       <string>Formulário Aprovação de ARMC.html</string>
+      </void>
+      <void property="phisicalFileSize">
+       <float>6.08444E-4</float>
+      </void>
+      <void property="publisherId">
+       <string>admin</string>
+      </void>
+      <void property="relatedFiles">
+       <string>Formulário Aprovação de ARMC.html main.js relatedHiddenFieldsFunctions.js</string>
+      </void>
+      <void property="topicId">
+       <int>0</int>
+      </void>
+      <void property="validationStartDate">
+       <object class="com.sun.org.apache.xerces.internal.jaxp.datatype.XMLGregorianCalendarImpl"/>
+      </void>
+      <void property="version">
+       <int>5000</int>
+      </void>
+      <void property="versionDescription">
+       <string></string>
+      </void>
+      <void property="volumeId">
+       <string>Default</string>
+      </void>
+     </object>
+    </void>
+    <void method="add">
+     <object class="com.totvs.tds.ecm.foundation.ws.DocumentDto">
+      <void property="UUID">
+       <string>BED89304-19D3-49D6-B4A7-2D4C517B6C9E</string>
+      </void>
+      <void property="accessCount">
+       <int>0</int>
+      </void>
+      <void property="additionalComments">
+       <string></string>
+      </void>
+      <void property="colleagueId">
+       <string>admin</string>
+      </void>
+      <void property="companyId">
+       <int>1</int>
+      </void>
+      <void property="createDate">
+       <object class="com.sun.org.apache.xerces.internal.jaxp.datatype.XMLGregorianCalendarImpl"/>
+      </void>
+      <void property="datasetName">
+       <string>ds_chamados_facilities</string>
+      </void>
+      <void property="documentDescription">
+       <string>Chamados Facilities</string>
+      </void>
+      <void property="documentId">
+       <int>3278</int>
+      </void>
+      <void property="documentPropertyNumber">
+       <int>3278</int>
+      </void>
+      <void property="documentPropertyVersion">
+       <int>1000</int>
+      </void>
+      <void property="documentType">
+       <string>4</string>
+      </void>
+      <void property="documentTypeId">
+       <string></string>
+      </void>
+      <void property="expirationDate">
+       <object class="com.sun.org.apache.xerces.internal.jaxp.datatype.XMLGregorianCalendarImpl"/>
+      </void>
+      <void property="iconId">
+       <int>0</int>
+      </void>
+      <void property="inheritSecurity">
+       <boolean>true</boolean>
+      </void>
+      <void property="keyWord">
+       <string></string>
+      </void>
+      <void property="languageId">
+       <string></string>
+      </void>
+      <void property="lastModifiedDate">
+       <object class="com.sun.org.apache.xerces.internal.jaxp.datatype.XMLGregorianCalendarImpl"/>
+      </void>
+      <void property="parentDocumentId">
+       <int>3277</int>
+      </void>
+      <void property="phisicalFile">
+       <string>chamados facilites.html</string>
+      </void>
+      <void property="phisicalFileSize">
+       <float>0.0394697</float>
+      </void>
+      <void property="publisherId">
+       <string>admin</string>
+      </void>
+      <void property="relatedFiles">
+       <string>chamados facilites.html jquery.maskMoney.min.js zoom.js</string>
+      </void>
+      <void property="topicId">
+       <int>0</int>
+      </void>
+      <void property="validationStartDate">
+       <object class="com.sun.org.apache.xerces.internal.jaxp.datatype.XMLGregorianCalendarImpl"/>
+      </void>
+      <void property="version">
+       <int>1000</int>
+      </void>
+      <void property="versionDescription">
+       <string></string>
+      </void>
+      <void property="volumeId">
+       <string>Default</string>
+      </void>
+     </object>
+    </void>
+    <void method="add">
+     <object class="com.totvs.tds.ecm.foundation.ws.DocumentDto">
+      <void property="UUID">
+       <string>9A30B7B9-3F84-4E41-B177-CB39B717B1B8</string>
+      </void>
+      <void property="accessCount">
+       <int>0</int>
+      </void>
+      <void property="additionalComments">
+       <string></string>
+      </void>
+      <void property="colleagueId">
+       <string>admin</string>
+      </void>
+      <void property="companyId">
+       <int>1</int>
+      </void>
+      <void property="createDate">
+       <object class="com.sun.org.apache.xerces.internal.jaxp.datatype.XMLGregorianCalendarImpl"/>
+      </void>
+      <void property="datasetName">
+       <string>ds_categoria_chamado_facilities</string>
+      </void>
+      <void property="documentDescription">
+       <string>Categoria chamado facilities</string>
+      </void>
+      <void property="documentId">
+       <int>3279</int>
+      </void>
+      <void property="documentPropertyNumber">
+       <int>3279</int>
+      </void>
+      <void property="documentPropertyVersion">
+       <int>1000</int>
+      </void>
+      <void property="documentType">
+       <string>4</string>
+      </void>
+      <void property="documentTypeId">
+       <string></string>
+      </void>
+      <void property="expirationDate">
+       <object class="com.sun.org.apache.xerces.internal.jaxp.datatype.XMLGregorianCalendarImpl"/>
+      </void>
+      <void property="iconId">
+       <int>0</int>
+      </void>
+      <void property="inheritSecurity">
+       <boolean>true</boolean>
+      </void>
+      <void property="keyWord">
+       <string></string>
+      </void>
+      <void property="languageId">
+       <string></string>
+      </void>
+      <void property="lastModifiedDate">
+       <object class="com.sun.org.apache.xerces.internal.jaxp.datatype.XMLGregorianCalendarImpl"/>
+      </void>
+      <void property="parentDocumentId">
+       <int>3277</int>
+      </void>
+      <void property="phisicalFile">
+       <string>Categoria do chamado facilities.html</string>
+      </void>
+      <void property="phisicalFileSize">
+       <float>9.19342E-4</float>
+      </void>
+      <void property="publisherId">
+       <string>admin</string>
+      </void>
+      <void property="relatedFiles">
+       <string>Categoria do chamado facilities.html</string>
+      </void>
+      <void property="topicId">
+       <int>0</int>
+      </void>
+      <void property="validationStartDate">
+       <object class="com.sun.org.apache.xerces.internal.jaxp.datatype.XMLGregorianCalendarImpl"/>
+      </void>
+      <void property="version">
+       <int>1000</int>
+      </void>
+      <void property="versionDescription">
+       <string></string>
+      </void>
+      <void property="volumeId">
+       <string>Default</string>
+      </void>
+     </object>
+    </void>
+    <void method="add">
+     <object class="com.totvs.tds.ecm.foundation.ws.DocumentDto">
+      <void property="UUID">
+       <string>7E94302C-A4FF-49F3-8F2C-374A6E0F3FF6</string>
+      </void>
+      <void property="accessCount">
+       <int>0</int>
+      </void>
+      <void property="additionalComments">
+       <string></string>
+      </void>
+      <void property="colleagueId">
+       <string>admin</string>
+      </void>
+      <void property="companyId">
+       <int>1</int>
+      </void>
+      <void property="createDate">
+       <object class="com.sun.org.apache.xerces.internal.jaxp.datatype.XMLGregorianCalendarImpl"/>
+      </void>
+      <void property="datasetName">
+       <string>ds_sub_categoria_chamados_facilities</string>
+      </void>
+      <void property="documentDescription">
+       <string>Sub Categoria chamados facilities</string>
+      </void>
+      <void property="documentId">
+       <int>3280</int>
+      </void>
+      <void property="documentPropertyNumber">
+       <int>3280</int>
+      </void>
+      <void property="documentPropertyVersion">
+       <int>1000</int>
+      </void>
+      <void property="documentType">
+       <string>4</string>
+      </void>
+      <void property="documentTypeId">
+       <string></string>
+      </void>
+      <void property="expirationDate">
+       <object class="com.sun.org.apache.xerces.internal.jaxp.datatype.XMLGregorianCalendarImpl"/>
+      </void>
+      <void property="iconId">
+       <int>0</int>
+      </void>
+      <void property="inheritSecurity">
+       <boolean>true</boolean>
+      </void>
+      <void property="keyWord">
+       <string></string>
+      </void>
+      <void property="languageId">
+       <string></string>
+      </void>
+      <void property="lastModifiedDate">
+       <object class="com.sun.org.apache.xerces.internal.jaxp.datatype.XMLGregorianCalendarImpl"/>
+      </void>
+      <void property="parentDocumentId">
+       <int>3277</int>
+      </void>
+      <void property="phisicalFile">
+       <string>Sub categoria do chamado facilities.html</string>
+      </void>
+      <void property="phisicalFileSize">
+       <float>0.00230885</float>
+      </void>
+      <void property="publisherId">
+       <string>admin</string>
+      </void>
+      <void property="relatedFiles">
+       <string>Sub categoria do chamado facilities.html</string>
+      </void>
+      <void property="topicId">
+       <int>0</int>
+      </void>
+      <void property="validationStartDate">
+       <object class="com.sun.org.apache.xerces.internal.jaxp.datatype.XMLGregorianCalendarImpl"/>
+      </void>
+      <void property="version">
+       <int>1000</int>
+      </void>
+      <void property="versionDescription">
+       <string></string>
+      </void>
+      <void property="volumeId">
+       <string>Default</string>
+      </void>
+     </object>
+    </void>
+    <void method="add">
+     <object class="com.totvs.tds.ecm.foundation.ws.DocumentDto">
+      <void property="UUID">
+       <string>6C02B93B-B93B-41F8-9EF1-04BCF0AB0FE6</string>
+      </void>
+      <void property="accessCount">
+       <int>0</int>
+      </void>
+      <void property="additionalComments">
+       <string></string>
+      </void>
+      <void property="colleagueId">
+       <string>admin</string>
+      </void>
+      <void property="companyId">
+       <int>1</int>
+      </void>
+      <void property="createDate">
+       <object class="com.sun.org.apache.xerces.internal.jaxp.datatype.XMLGregorianCalendarImpl"/>
+      </void>
+      <void property="datasetName">
+       <string>ds_areas_facilities</string>
+      </void>
+      <void property="documentDescription">
+       <string>Áres de Atendimento Facilities</string>
+      </void>
+      <void property="documentId">
+       <int>3281</int>
+      </void>
+      <void property="documentPropertyNumber">
+       <int>3281</int>
+      </void>
+      <void property="documentPropertyVersion">
+       <int>1000</int>
+      </void>
+      <void property="documentType">
+       <string>4</string>
+      </void>
+      <void property="documentTypeId">
+       <string></string>
+      </void>
+      <void property="expirationDate">
+       <object class="com.sun.org.apache.xerces.internal.jaxp.datatype.XMLGregorianCalendarImpl"/>
+      </void>
+      <void property="iconId">
+       <int>0</int>
+      </void>
+      <void property="inheritSecurity">
+       <boolean>true</boolean>
+      </void>
+      <void property="keyWord">
+       <string></string>
+      </void>
+      <void property="languageId">
+       <string></string>
+      </void>
+      <void property="lastModifiedDate">
+       <object class="com.sun.org.apache.xerces.internal.jaxp.datatype.XMLGregorianCalendarImpl"/>
+      </void>
+      <void property="parentDocumentId">
+       <int>3277</int>
+      </void>
+      <void property="phisicalFile">
+       <string>Áreas de atendimento.html</string>
+      </void>
+      <void property="phisicalFileSize">
+       <float>0.00106907</float>
+      </void>
+      <void property="publisherId">
+       <string>admin</string>
+      </void>
+      <void property="relatedFiles">
+       <string>Áreas de atendimento.html</string>
+      </void>
+      <void property="topicId">
+       <int>0</int>
+      </void>
+      <void property="validationStartDate">
+       <object class="com.sun.org.apache.xerces.internal.jaxp.datatype.XMLGregorianCalendarImpl"/>
+      </void>
+      <void property="version">
+       <int>1000</int>
+      </void>
+      <void property="versionDescription">
+       <string></string>
+      </void>
+      <void property="volumeId">
+       <string>Default</string>
+      </void>
+     </object>
+    </void>
+    <void method="add">
+     <object class="com.totvs.tds.ecm.foundation.ws.DocumentDto">
+      <void property="UUID">
+       <string>764E8961-8556-44D5-979F-AF3F28D67608</string>
+      </void>
+      <void property="accessCount">
+       <int>0</int>
+      </void>
+      <void property="additionalComments">
+       <string></string>
+      </void>
+      <void property="cardDescription">
+       <string></string>
+      </void>
+      <void property="colleagueId">
+       <string>admin</string>
+      </void>
+      <void property="companyId">
+       <int>1</int>
+      </void>
+      <void property="createDate">
+       <object class="com.sun.org.apache.xerces.internal.jaxp.datatype.XMLGregorianCalendarImpl"/>
+      </void>
+      <void property="datasetName">
+       <string>Crown_FormularioAprovaAberturaMAIN</string>
+      </void>
+      <void property="documentDescription">
+       <string>Crown_FormularioAprovaAbertura</string>
+      </void>
+      <void property="documentId">
+       <int>3321</int>
+      </void>
+      <void property="documentPropertyNumber">
+       <int>3321</int>
+      </void>
+      <void property="documentPropertyVersion">
+       <int>2000</int>
+      </void>
+      <void property="documentType">
+       <string>4</string>
+      </void>
+      <void property="documentTypeId">
+       <string></string>
+      </void>
+      <void property="expirationDate">
+       <object class="com.sun.org.apache.xerces.internal.jaxp.datatype.XMLGregorianCalendarImpl"/>
+      </void>
+      <void property="iconId">
+       <int>0</int>
+      </void>
+      <void property="inheritSecurity">
+       <boolean>true</boolean>
+      </void>
+      <void property="keyWord">
+       <string></string>
+      </void>
+      <void property="languageId">
+       <string></string>
+      </void>
+      <void property="lastModifiedDate">
+       <object class="com.sun.org.apache.xerces.internal.jaxp.datatype.XMLGregorianCalendarImpl"/>
+      </void>
+      <void property="parentDocumentId">
+       <int>3320</int>
+      </void>
+      <void property="phisicalFile">
+       <string>Crown_FormularioAprovaAbertura.html</string>
+      </void>
+      <void property="phisicalFileSize">
+       <float>0.0144691</float>
+      </void>
+      <void property="publisherId">
+       <string>admin</string>
+      </void>
+      <void property="relatedFiles">
+       <string>Crown_FormularioAprovaAbertura.html main.css main.js</string>
+      </void>
+      <void property="topicId">
+       <int>0</int>
+      </void>
+      <void property="validationStartDate">
+       <object class="com.sun.org.apache.xerces.internal.jaxp.datatype.XMLGregorianCalendarImpl"/>
+      </void>
+      <void property="version">
+       <int>2000</int>
+      </void>
+      <void property="versionDescription">
+       <string></string>
+      </void>
+      <void property="volumeId">
+       <string>Default</string>
+      </void>
+     </object>
+    </void>
+    <void method="add">
+     <object class="com.totvs.tds.ecm.foundation.ws.DocumentDto">
+      <void property="UUID">
+       <string>CB809B72-E794-4B7B-901D-4BCB03C83E3E</string>
+      </void>
+      <void property="accessCount">
+       <int>0</int>
+      </void>
+      <void property="additionalComments">
+       <string></string>
+      </void>
+      <void property="colleagueId">
+       <string>admin</string>
+      </void>
+      <void property="companyId">
+       <int>1</int>
+      </void>
+      <void property="createDate">
+       <object class="com.sun.org.apache.xerces.internal.jaxp.datatype.XMLGregorianCalendarImpl"/>
+      </void>
+      <void property="datasetName">
+       <string>nao_conformidade</string>
+      </void>
+      <void property="documentDescription">
+       <string>nao_conformidade</string>
+      </void>
+      <void property="documentId">
+       <int>3338</int>
+      </void>
+      <void property="documentPropertyNumber">
+       <int>3338</int>
+      </void>
+      <void property="documentPropertyVersion">
+       <int>1000</int>
+      </void>
+      <void property="documentType">
+       <string>4</string>
+      </void>
+      <void property="documentTypeId">
+       <string></string>
+      </void>
+      <void property="expirationDate">
+       <object class="com.sun.org.apache.xerces.internal.jaxp.datatype.XMLGregorianCalendarImpl"/>
+      </void>
+      <void property="iconId">
+       <int>0</int>
+      </void>
+      <void property="inheritSecurity">
+       <boolean>true</boolean>
+      </void>
+      <void property="keyWord">
+       <string></string>
+      </void>
+      <void property="languageId">
+       <string></string>
+      </void>
+      <void property="lastModifiedDate">
+       <object class="com.sun.org.apache.xerces.internal.jaxp.datatype.XMLGregorianCalendarImpl"/>
+      </void>
+      <void property="parentDocumentId">
+       <int>2</int>
+      </void>
+      <void property="phisicalFile">
+       <string>nao_conformidade.html</string>
+      </void>
+      <void property="phisicalFileSize">
+       <float>0.22047</float>
+      </void>
+      <void property="publisherId">
+       <string>admin</string>
+      </void>
+      <void property="relatedFiles">
+       <string>customDisplayFields.js customEnableFields.js customValidateForm.js init.js main.css main.js moment.js nao_conformidade.html paiFilho.js zoom.js</string>
+      </void>
+      <void property="topicId">
+       <int>0</int>
+      </void>
+      <void property="validationStartDate">
+       <object class="com.sun.org.apache.xerces.internal.jaxp.datatype.XMLGregorianCalendarImpl"/>
+      </void>
+      <void property="version">
+       <int>1000</int>
+      </void>
+      <void property="versionDescription">
+       <string></string>
+      </void>
+      <void property="volumeId">
+       <string>Default</string>
+      </void>
+     </object>
+    </void>
+    <void method="add">
+     <object class="com.totvs.tds.ecm.foundation.ws.DocumentDto">
+      <void property="UUID">
+       <string>ED4A5E5A-7575-4F3C-A0E2-6BF1C41E27E3</string>
+      </void>
+      <void property="accessCount">
+       <int>0</int>
+      </void>
+      <void property="additionalComments">
+       <string></string>
+      </void>
+      <void property="colleagueId">
+       <string>admin</string>
+      </void>
+      <void property="companyId">
+       <int>1</int>
+      </void>
+      <void property="createDate">
+       <object class="com.sun.org.apache.xerces.internal.jaxp.datatype.XMLGregorianCalendarImpl"/>
+      </void>
+      <void property="datasetName">
+       <string>nao_conformidade2</string>
+      </void>
+      <void property="documentDescription">
+       <string>nao_conformidade2</string>
+      </void>
+      <void property="documentId">
+       <int>3339</int>
+      </void>
+      <void property="documentPropertyNumber">
+       <int>3339</int>
+      </void>
+      <void property="documentPropertyVersion">
+       <int>1000</int>
+      </void>
+      <void property="documentType">
+       <string>4</string>
+      </void>
+      <void property="documentTypeId">
+       <string></string>
+      </void>
+      <void property="expirationDate">
+       <object class="com.sun.org.apache.xerces.internal.jaxp.datatype.XMLGregorianCalendarImpl"/>
+      </void>
+      <void property="iconId">
+       <int>0</int>
+      </void>
+      <void property="inheritSecurity">
+       <boolean>true</boolean>
+      </void>
+      <void property="keyWord">
+       <string></string>
+      </void>
+      <void property="languageId">
+       <string></string>
+      </void>
+      <void property="lastModifiedDate">
+       <object class="com.sun.org.apache.xerces.internal.jaxp.datatype.XMLGregorianCalendarImpl"/>
+      </void>
+      <void property="parentDocumentId">
+       <int>2</int>
+      </void>
+      <void property="phisicalFile">
+       <string>nao_conformidade.html</string>
+      </void>
+      <void property="phisicalFileSize">
+       <float>8.55446E-4</float>
+      </void>
+      <void property="publisherId">
+       <string>admin</string>
+      </void>
+      <void property="relatedFiles">
+       <string>nao_conformidade.html</string>
+      </void>
+      <void property="topicId">
+       <int>0</int>
+      </void>
+      <void property="validationStartDate">
+       <object class="com.sun.org.apache.xerces.internal.jaxp.datatype.XMLGregorianCalendarImpl"/>
+      </void>
+      <void property="version">
+       <int>1000</int>
+      </void>
+      <void property="versionDescription">
+       <string></string>
+      </void>
+      <void property="volumeId">
+       <string>Default</string>
+      </void>
+     </object>
+    </void>
+    <void method="add">
+     <object class="com.totvs.tds.ecm.foundation.ws.DocumentDto">
+      <void property="UUID">
+       <string>8A104E60-A2B1-4238-969F-D7C5B34906D0</string>
+      </void>
+      <void property="accessCount">
+       <int>0</int>
+      </void>
+      <void property="additionalComments">
+       <string></string>
+      </void>
+      <void property="cardDescription">
+       <string></string>
+      </void>
+      <void property="colleagueId">
+       <string>admin</string>
+      </void>
+      <void property="companyId">
+       <int>1</int>
+      </void>
+      <void property="createDate">
+       <object class="com.sun.org.apache.xerces.internal.jaxp.datatype.XMLGregorianCalendarImpl"/>
+      </void>
+      <void property="datasetName">
+       <string>nao_conformidade_afip</string>
+      </void>
+      <void property="documentDescription">
+       <string>Processo Não Conformidade</string>
+      </void>
+      <void property="documentId">
+       <int>3342</int>
+      </void>
+      <void property="documentPropertyNumber">
+       <int>3342</int>
+      </void>
+      <void property="documentPropertyVersion">
+       <int>1000</int>
+      </void>
+      <void property="documentType">
+       <string>4</string>
+      </void>
+      <void property="documentTypeId">
+       <string></string>
+      </void>
+      <void property="expirationDate">
+       <object class="com.sun.org.apache.xerces.internal.jaxp.datatype.XMLGregorianCalendarImpl"/>
+      </void>
+      <void property="iconId">
+       <int>0</int>
+      </void>
+      <void property="inheritSecurity">
+       <boolean>true</boolean>
+      </void>
+      <void property="keyWord">
+       <string></string>
+      </void>
+      <void property="languageId">
+       <string></string>
+      </void>
+      <void property="lastModifiedDate">
+       <object class="com.sun.org.apache.xerces.internal.jaxp.datatype.XMLGregorianCalendarImpl"/>
+      </void>
+      <void property="parentDocumentId">
+       <int>3341</int>
+      </void>
+      <void property="phisicalFile">
+       <string>nao_conformidade.html</string>
+      </void>
+      <void property="phisicalFileSize">
+       <float>0.220439</float>
+      </void>
+      <void property="publisherId">
+       <string>admin</string>
+      </void>
+      <void property="relatedFiles">
+       <string>customDisplayFields.js customEnableFields.js customValidateForm.js init.js main.css main.js moment.js nao_conformidade.html paiFilho.js zoom.js</string>
+      </void>
+      <void property="topicId">
+       <int>0</int>
+      </void>
+      <void property="validationStartDate">
+       <object class="com.sun.org.apache.xerces.internal.jaxp.datatype.XMLGregorianCalendarImpl"/>
+      </void>
+      <void property="version">
+       <int>1000</int>
+      </void>
+      <void property="versionDescription">
+       <string></string>
+      </void>
+      <void property="volumeId">
+       <string>Default</string>
+      </void>
+     </object>
+    </void>
+    <void method="add">
+     <object class="com.totvs.tds.ecm.foundation.ws.DocumentDto">
+      <void property="UUID">
+       <string>BAFC81D0-B797-44E8-AF10-8FC04C45E235</string>
+      </void>
+      <void property="accessCount">
+       <int>0</int>
+      </void>
+      <void property="additionalComments">
+       <string></string>
+      </void>
+      <void property="cardDescription">
+       <string></string>
+      </void>
+      <void property="colleagueId">
+       <string>admin</string>
+      </void>
+      <void property="companyId">
+       <int>1</int>
+      </void>
+      <void property="createDate">
+       <object class="com.sun.org.apache.xerces.internal.jaxp.datatype.XMLGregorianCalendarImpl"/>
+      </void>
+      <void property="datasetName">
+       <string>ds_form_eg_aux</string>
+      </void>
+      <void property="documentDescription">
+       <string>form_eg_aux</string>
+      </void>
+      <void property="documentId">
+       <int>3381</int>
+      </void>
+      <void property="documentPropertyNumber">
+       <int>3381</int>
+      </void>
+      <void property="documentPropertyVersion">
+       <int>13000</int>
+      </void>
+      <void property="documentType">
+       <string>4</string>
+      </void>
+      <void property="documentTypeId">
+       <string></string>
+      </void>
+      <void property="expirationDate">
+       <object class="com.sun.org.apache.xerces.internal.jaxp.datatype.XMLGregorianCalendarImpl"/>
+      </void>
+      <void property="iconId">
+       <int>0</int>
+      </void>
+      <void property="inheritSecurity">
+       <boolean>true</boolean>
+      </void>
+      <void property="keyWord">
+       <string></string>
+      </void>
+      <void property="languageId">
+       <string></string>
+      </void>
+      <void property="lastModifiedDate">
+       <object class="com.sun.org.apache.xerces.internal.jaxp.datatype.XMLGregorianCalendarImpl"/>
+      </void>
+      <void property="parentDocumentId">
+       <int>3380</int>
+      </void>
+      <void property="phisicalFile">
+       <string>form_eg_aux.html</string>
+      </void>
+      <void property="phisicalFileSize">
+       <float>0.176222</float>
+      </void>
+      <void property="publisherId">
+       <string>admin</string>
+      </void>
+      <void property="relatedFiles">
+       <string>egFuncs.js form_eg_aux.html main.js pt-BR.js select2-bootstrap.css select2.js select2.min.css styles.css</string>
+      </void>
+      <void property="topicId">
+       <int>0</int>
+      </void>
+      <void property="validationStartDate">
+       <object class="com.sun.org.apache.xerces.internal.jaxp.datatype.XMLGregorianCalendarImpl"/>
+      </void>
+      <void property="version">
+       <int>13000</int>
+      </void>
+      <void property="versionDescription">
+       <string></string>
+      </void>
+      <void property="volumeId">
+       <string>Default</string>
+      </void>
+     </object>
+    </void>
+    <void method="add">
+     <object class="com.totvs.tds.ecm.foundation.ws.DocumentDto">
+      <void property="UUID">
+       <string>1D1CDBB2-8866-4045-A66B-52ACB6A06125</string>
+      </void>
+      <void property="accessCount">
+       <int>0</int>
+      </void>
+      <void property="additionalComments">
+       <string></string>
+      </void>
+      <void property="colleagueId">
+       <string>admin</string>
+      </void>
+      <void property="companyId">
+       <int>1</int>
+      </void>
+      <void property="createDate">
+       <object class="com.sun.org.apache.xerces.internal.jaxp.datatype.XMLGregorianCalendarImpl"/>
+      </void>
+      <void property="datasetName">
+       <string>ds_formTorraTorra</string>
+      </void>
+      <void property="documentDescription">
+       <string>Torra Torra</string>
+      </void>
+      <void property="documentId">
+       <int>3383</int>
+      </void>
+      <void property="documentPropertyNumber">
+       <int>3383</int>
+      </void>
+      <void property="documentPropertyVersion">
+       <int>1000</int>
+      </void>
+      <void property="documentType">
+       <string>4</string>
+      </void>
+      <void property="documentTypeId">
+       <string></string>
+      </void>
+      <void property="expirationDate">
+       <object class="com.sun.org.apache.xerces.internal.jaxp.datatype.XMLGregorianCalendarImpl"/>
+      </void>
+      <void property="iconId">
+       <int>0</int>
+      </void>
+      <void property="inheritSecurity">
+       <boolean>true</boolean>
+      </void>
+      <void property="keyWord">
+       <string></string>
+      </void>
+      <void property="languageId">
+       <string></string>
+      </void>
+      <void property="lastModifiedDate">
+       <object class="com.sun.org.apache.xerces.internal.jaxp.datatype.XMLGregorianCalendarImpl"/>
+      </void>
+      <void property="parentDocumentId">
+       <int>2</int>
+      </void>
+      <void property="phisicalFile">
+       <string>Torra Torra.html</string>
+      </void>
+      <void property="phisicalFileSize">
+       <float>0.0119219</float>
+      </void>
+      <void property="publisherId">
+       <string>admin</string>
+      </void>
+      <void property="relatedFiles">
+       <string>Torra Torra.html main.js</string>
+      </void>
+      <void property="topicId">
+       <int>0</int>
+      </void>
+      <void property="validationStartDate">
+       <object class="com.sun.org.apache.xerces.internal.jaxp.datatype.XMLGregorianCalendarImpl"/>
+      </void>
+      <void property="version">
+       <int>1000</int>
+      </void>
+      <void property="versionDescription">
+       <string></string>
+      </void>
+      <void property="volumeId">
+       <string>Default</string>
+      </void>
+     </object>
+    </void>
+    <void method="add">
+     <object class="com.totvs.tds.ecm.foundation.ws.DocumentDto">
+      <void property="UUID">
+       <string>294C5E44-7BD6-4CE3-8B9A-DFC65E6CD855</string>
+      </void>
+      <void property="accessCount">
+       <int>0</int>
+      </void>
+      <void property="additionalComments">
+       <string></string>
+      </void>
+      <void property="colleagueId">
+       <string>admin</string>
+      </void>
+      <void property="companyId">
+       <int>1</int>
+      </void>
+      <void property="createDate">
+       <object class="com.sun.org.apache.xerces.internal.jaxp.datatype.XMLGregorianCalendarImpl"/>
+      </void>
+      <void property="datasetName">
+       <string>ds_cadastroFilialGrupo</string>
+      </void>
+      <void property="documentDescription">
+       <string>Formulário Cadastro de Filial x Grupo</string>
+      </void>
+      <void property="documentId">
+       <int>3390</int>
+      </void>
+      <void property="documentPropertyNumber">
+       <int>3390</int>
+      </void>
+      <void property="documentPropertyVersion">
+       <int>1000</int>
+      </void>
+      <void property="documentType">
+       <string>4</string>
+      </void>
+      <void property="documentTypeId">
+       <string></string>
+      </void>
+      <void property="expirationDate">
+       <object class="com.sun.org.apache.xerces.internal.jaxp.datatype.XMLGregorianCalendarImpl"/>
+      </void>
+      <void property="iconId">
+       <int>0</int>
+      </void>
+      <void property="inheritSecurity">
+       <boolean>true</boolean>
+      </void>
+      <void property="keyWord">
+       <string></string>
+      </void>
+      <void property="languageId">
+       <string></string>
+      </void>
+      <void property="lastModifiedDate">
+       <object class="com.sun.org.apache.xerces.internal.jaxp.datatype.XMLGregorianCalendarImpl"/>
+      </void>
+      <void property="parentDocumentId">
+       <int>3389</int>
+      </void>
+      <void property="phisicalFile">
+       <string>Formulário Cadastro de Filial x Grupo.html</string>
+      </void>
+      <void property="phisicalFileSize">
+       <float>0.00857258</float>
+      </void>
+      <void property="publisherId">
+       <string>admin</string>
+      </void>
+      <void property="relatedFiles">
+       <string>Formulário Cadastro de Filial x Grupo.html main.js</string>
+      </void>
+      <void property="topicId">
+       <int>0</int>
+      </void>
+      <void property="validationStartDate">
+       <object class="com.sun.org.apache.xerces.internal.jaxp.datatype.XMLGregorianCalendarImpl"/>
+      </void>
+      <void property="version">
+       <int>1000</int>
+      </void>
+      <void property="versionDescription">
+       <string></string>
+      </void>
+      <void property="volumeId">
+       <string>Default</string>
+      </void>
+     </object>
+    </void>
+    <void method="add">
+     <object class="com.totvs.tds.ecm.foundation.ws.DocumentDto">
+      <void property="UUID">
+       <string>CB01E36C-4DDA-481D-8E53-FB160C310EDF</string>
+      </void>
+      <void property="accessCount">
+       <int>0</int>
+      </void>
+      <void property="additionalComments">
+       <string></string>
+      </void>
+      <void property="colleagueId">
+       <string>admin</string>
+      </void>
+      <void property="companyId">
+       <int>1</int>
+      </void>
+      <void property="createDate">
+       <object class="com.sun.org.apache.xerces.internal.jaxp.datatype.XMLGregorianCalendarImpl"/>
+      </void>
+      <void property="datasetName">
+       <string>ds_camposObrigatorios</string>
+      </void>
+      <void property="documentDescription">
+       <string>Formulário Campos Obrigatórios</string>
+      </void>
+      <void property="documentId">
+       <int>3391</int>
+      </void>
+      <void property="documentPropertyNumber">
+       <int>3391</int>
+      </void>
+      <void property="documentPropertyVersion">
+       <int>1000</int>
+      </void>
+      <void property="documentType">
+       <string>4</string>
+      </void>
+      <void property="documentTypeId">
+       <string></string>
+      </void>
+      <void property="expirationDate">
+       <object class="com.sun.org.apache.xerces.internal.jaxp.datatype.XMLGregorianCalendarImpl"/>
+      </void>
+      <void property="iconId">
+       <int>0</int>
+      </void>
+      <void property="inheritSecurity">
+       <boolean>true</boolean>
+      </void>
+      <void property="keyWord">
+       <string></string>
+      </void>
+      <void property="languageId">
+       <string></string>
+      </void>
+      <void property="lastModifiedDate">
+       <object class="com.sun.org.apache.xerces.internal.jaxp.datatype.XMLGregorianCalendarImpl"/>
+      </void>
+      <void property="parentDocumentId">
+       <int>3389</int>
+      </void>
+      <void property="phisicalFile">
+       <string>Formulário Campos Obrigatórios.html</string>
+      </void>
+      <void property="phisicalFileSize">
+       <float>0.0194254</float>
+      </void>
+      <void property="publisherId">
+       <string>admin</string>
+      </void>
+      <void property="relatedFiles">
+       <string>Formulário Campos Obrigatórios.html</string>
+      </void>
+      <void property="topicId">
+       <int>0</int>
+      </void>
+      <void property="validationStartDate">
+       <object class="com.sun.org.apache.xerces.internal.jaxp.datatype.XMLGregorianCalendarImpl"/>
+      </void>
+      <void property="version">
+       <int>1000</int>
+      </void>
+      <void property="versionDescription">
+       <string></string>
+      </void>
+      <void property="volumeId">
+       <string>Default</string>
+      </void>
+     </object>
+    </void>
+    <void method="add">
+     <object class="com.totvs.tds.ecm.foundation.ws.DocumentDto">
+      <void property="UUID">
+       <string>46D86F47-9F59-41FD-87D2-3A5C0F42F333</string>
+      </void>
+      <void property="accessCount">
+       <int>0</int>
+      </void>
+      <void property="additionalComments">
+       <string></string>
+      </void>
+      <void property="colleagueId">
+       <string>admin</string>
+      </void>
+      <void property="companyId">
+       <int>1</int>
+      </void>
+      <void property="createDate">
+       <object class="com.sun.org.apache.xerces.internal.jaxp.datatype.XMLGregorianCalendarImpl"/>
+      </void>
+      <void property="datasetName">
+       <string>ds_lancamentoNotas</string>
+      </void>
+      <void property="documentDescription">
+       <string>Formulário de Lançamento de NFS</string>
+      </void>
+      <void property="documentId">
+       <int>3392</int>
+      </void>
+      <void property="documentPropertyNumber">
+       <int>3392</int>
+      </void>
+      <void property="documentPropertyVersion">
+       <int>1000</int>
+      </void>
+      <void property="documentType">
+       <string>4</string>
+      </void>
+      <void property="documentTypeId">
+       <string></string>
+      </void>
+      <void property="expirationDate">
+       <object class="com.sun.org.apache.xerces.internal.jaxp.datatype.XMLGregorianCalendarImpl"/>
+      </void>
+      <void property="iconId">
+       <int>0</int>
+      </void>
+      <void property="inheritSecurity">
+       <boolean>true</boolean>
+      </void>
+      <void property="keyWord">
+       <string></string>
+      </void>
+      <void property="languageId">
+       <string></string>
+      </void>
+      <void property="lastModifiedDate">
+       <object class="com.sun.org.apache.xerces.internal.jaxp.datatype.XMLGregorianCalendarImpl"/>
+      </void>
+      <void property="parentDocumentId">
+       <int>3389</int>
+      </void>
+      <void property="phisicalFile">
+       <string>Formulário de Lançamento de NFS.html</string>
+      </void>
+      <void property="phisicalFileSize">
+       <float>0.268971</float>
+      </void>
+      <void property="publisherId">
+       <string>admin</string>
+      </void>
+      <void property="relatedFiles">
+       <string>Formulário de Lançamento de NFS.html select2Config.js select2Instances.js anexosCtrl.js searchPedidoContrato.js sendMail.js showMailBody.js jquery.mask.min.js select2-bootstrap.css select2.min.css select2.min.js sweetalert2.all.min.js main.js easyConnectServices.js fluigServices.js style.css</string>
+      </void>
+      <void property="topicId">
+       <int>0</int>
+      </void>
+      <void property="validationStartDate">
+       <object class="com.sun.org.apache.xerces.internal.jaxp.datatype.XMLGregorianCalendarImpl"/>
+      </void>
+      <void property="version">
+       <int>1000</int>
+      </void>
+      <void property="versionDescription">
+       <string></string>
+      </void>
+      <void property="volumeId">
+       <string>Default</string>
+      </void>
+     </object>
+    </void>
+    <void method="add">
+     <object class="com.totvs.tds.ecm.foundation.ws.DocumentDto">
+      <void property="UUID">
+       <string>E912AA8B-9229-4422-B6F6-CEA2F2DA399F</string>
+      </void>
+      <void property="accessCount">
+       <int>0</int>
+      </void>
+      <void property="additionalComments">
+       <string></string>
+      </void>
+      <void property="colleagueId">
+       <string>admin</string>
+      </void>
+      <void property="companyId">
+       <int>1</int>
+      </void>
+      <void property="createDate">
+       <object class="com.sun.org.apache.xerces.internal.jaxp.datatype.XMLGregorianCalendarImpl"/>
+      </void>
+      <void property="datasetName">
+       <string>DSanalisederenda</string>
+      </void>
+      <void property="documentDescription">
+       <string>analise de renda</string>
+      </void>
+      <void property="documentId">
+       <int>3396</int>
+      </void>
+      <void property="documentPropertyNumber">
+       <int>3396</int>
+      </void>
+      <void property="documentPropertyVersion">
+       <int>1000</int>
+      </void>
+      <void property="documentType">
+       <string>4</string>
+      </void>
+      <void property="documentTypeId">
+       <string></string>
+      </void>
+      <void property="expirationDate">
+       <object class="com.sun.org.apache.xerces.internal.jaxp.datatype.XMLGregorianCalendarImpl"/>
+      </void>
+      <void property="iconId">
+       <int>0</int>
+      </void>
+      <void property="inheritSecurity">
+       <boolean>true</boolean>
+      </void>
+      <void property="keyWord">
+       <string></string>
+      </void>
+      <void property="languageId">
+       <string></string>
+      </void>
+      <void property="lastModifiedDate">
+       <object class="com.sun.org.apache.xerces.internal.jaxp.datatype.XMLGregorianCalendarImpl"/>
+      </void>
+      <void property="parentDocumentId">
+       <int>3394</int>
+      </void>
+      <void property="phisicalFile">
+       <string>Análise de Renda - Luis.html</string>
+      </void>
+      <void property="phisicalFileSize">
+       <float>6.94275E-4</float>
+      </void>
+      <void property="publisherId">
+       <string>admin</string>
+      </void>
+      <void property="relatedFiles">
+       <string>Análise de Renda - Luis.html</string>
+      </void>
+      <void property="topicId">
+       <int>0</int>
+      </void>
+      <void property="validationStartDate">
+       <object class="com.sun.org.apache.xerces.internal.jaxp.datatype.XMLGregorianCalendarImpl"/>
+      </void>
+      <void property="version">
+       <int>1000</int>
+      </void>
+      <void property="versionDescription">
+       <string></string>
+      </void>
+      <void property="volumeId">
+       <string>Default</string>
+      </void>
+     </object>
+    </void>
+    <void method="add">
+     <object class="com.totvs.tds.ecm.foundation.ws.DocumentDto">
+      <void property="UUID">
+       <string>8B689075-A7ED-48D5-A522-615942DE6F54</string>
+      </void>
+      <void property="accessCount">
+       <int>0</int>
+      </void>
+      <void property="additionalComments">
+       <string></string>
+      </void>
+      <void property="cardDescription">
+       <string></string>
+      </void>
+      <void property="colleagueId">
+       <string>admin</string>
+      </void>
+      <void property="companyId">
+       <int>1</int>
+      </void>
+      <void property="createDate">
+       <object class="com.sun.org.apache.xerces.internal.jaxp.datatype.XMLGregorianCalendarImpl"/>
+      </void>
+      <void property="datasetName">
+       <string>acp_ds_frm_acordo_comercial_de_precos</string>
+      </void>
+      <void property="documentDescription">
+       <string>Acordo Comercial de Preços</string>
+      </void>
+      <void property="documentId">
+       <int>3402</int>
+      </void>
+      <void property="documentPropertyNumber">
+       <int>3402</int>
+      </void>
+      <void property="documentPropertyVersion">
+       <int>3000</int>
+      </void>
+      <void property="documentType">
+       <string>4</string>
+      </void>
+      <void property="documentTypeId">
+       <string></string>
+      </void>
+      <void property="expirationDate">
+       <object class="com.sun.org.apache.xerces.internal.jaxp.datatype.XMLGregorianCalendarImpl"/>
+      </void>
+      <void property="iconId">
+       <int>0</int>
+      </void>
+      <void property="inheritSecurity">
+       <boolean>true</boolean>
+      </void>
+      <void property="keyWord">
+       <string></string>
+      </void>
+      <void property="languageId">
+       <string></string>
+      </void>
+      <void property="lastModifiedDate">
+       <object class="com.sun.org.apache.xerces.internal.jaxp.datatype.XMLGregorianCalendarImpl"/>
+      </void>
+      <void property="parentDocumentId">
+       <int>3401</int>
+      </void>
+      <void property="phisicalFile">
+       <string>Acordo Comercial de Preços.html</string>
+      </void>
+      <void property="phisicalFileSize">
+       <float>0.457975</float>
+      </void>
+      <void property="publisherId">
+       <string>admin</string>
+      </void>
+      <void property="relatedFiles">
+       <string>Acordo Comercial de Preços.html base.min.css choices.min.css choices.min.js image_01_logo-martin-brower.jpg library_01_moment.min.js library_02_select2.js library_03_pt-BR.js.js module_01_main.js module_02_activities.js module_03_beforeSendValidate.js module_04_addChildTableFunctions.js module_05_removeChildTableFunctions.js module_06_onloadChildTableFunctions.js module_07_onloadChildTableFunctionsView.js module_08_zoomFunctions.js module_09_zoomFunctionsOnload.js module_10_onloadFunctions.js module_11_select2Funtions.js module_12_showHideElementsFunctions.js module_13_approvalAuthority.js module_14_radioButtons.js module_15_sendEmail.js module_16_datesFuncs.js module_17_alerts.js module_18_selects.js module_19_masksFunctions.js module_20_calcFunctions.js module_21_attributeFields.js styleLibrary_01_select2.min.css styleLibrary_02_select2-bootstrap.css style_01_main.css style_02_radiobuttons.css style_03_header.css style_04_tableItens.css</string>
+      </void>
+      <void property="topicId">
+       <int>0</int>
+      </void>
+      <void property="validationStartDate">
+       <object class="com.sun.org.apache.xerces.internal.jaxp.datatype.XMLGregorianCalendarImpl"/>
+      </void>
+      <void property="version">
+       <int>3000</int>
+      </void>
+      <void property="versionDescription">
+       <string></string>
+      </void>
+      <void property="volumeId">
+       <string>Default</string>
+      </void>
+     </object>
+    </void>
+    <void method="add">
+     <object class="com.totvs.tds.ecm.foundation.ws.DocumentDto">
+      <void property="UUID">
+       <string>AA307B12-C42F-40A6-9455-8F1957C42B90</string>
+      </void>
+      <void property="accessCount">
+       <int>0</int>
+      </void>
+      <void property="additionalComments">
+       <string></string>
+      </void>
+      <void property="colleagueId">
+       <string>admin</string>
+      </void>
+      <void property="companyId">
+       <int>1</int>
+      </void>
+      <void property="createDate">
+       <object class="com.sun.org.apache.xerces.internal.jaxp.datatype.XMLGregorianCalendarImpl"/>
+      </void>
+      <void property="datasetName">
+       <string>acp_ds_frm_alcada_de_aprovacao</string>
+      </void>
+      <void property="documentDescription">
+       <string>Alçada de Aprovação</string>
+      </void>
+      <void property="documentId">
+       <int>3403</int>
+      </void>
+      <void property="documentPropertyNumber">
+       <int>3403</int>
+      </void>
+      <void property="documentPropertyVersion">
+       <int>1000</int>
+      </void>
+      <void property="documentType">
+       <string>4</string>
+      </void>
+      <void property="documentTypeId">
+       <string></string>
+      </void>
+      <void property="expirationDate">
+       <object class="com.sun.org.apache.xerces.internal.jaxp.datatype.XMLGregorianCalendarImpl"/>
+      </void>
+      <void property="iconId">
+       <int>0</int>
+      </void>
+      <void property="inheritSecurity">
+       <boolean>true</boolean>
+      </void>
+      <void property="keyWord">
+       <string></string>
+      </void>
+      <void property="languageId">
+       <string></string>
+      </void>
+      <void property="lastModifiedDate">
+       <object class="com.sun.org.apache.xerces.internal.jaxp.datatype.XMLGregorianCalendarImpl"/>
+      </void>
+      <void property="parentDocumentId">
+       <int>3401</int>
+      </void>
+      <void property="phisicalFile">
+       <string>Alçada de Aprovação.html</string>
+      </void>
+      <void property="phisicalFileSize">
+       <float>0.0221415</float>
+      </void>
+      <void property="publisherId">
+       <string>admin</string>
+      </void>
+      <void property="relatedFiles">
+       <string>Alçada de Aprovação.html module_01_main.js module_02_addChildTableFunctions.js module_03_removeChildTableFunctions.js module_04_zoomFunctions.js module_05_formDescription.js module_07_showHideElementsView.js module_08_verifyDataFunctions.js module_09_saveButton.js module_10_validateFields.js style_01_main.css</string>
+      </void>
+      <void property="topicId">
+       <int>0</int>
+      </void>
+      <void property="validationStartDate">
+       <object class="com.sun.org.apache.xerces.internal.jaxp.datatype.XMLGregorianCalendarImpl"/>
+      </void>
+      <void property="version">
+       <int>1000</int>
+      </void>
+      <void property="versionDescription">
+       <string></string>
+      </void>
+      <void property="volumeId">
+       <string>Default</string>
+      </void>
+     </object>
+    </void>
+    <void method="add">
+     <object class="com.totvs.tds.ecm.foundation.ws.DocumentDto">
+      <void property="UUID">
+       <string>3BF1CF21-D813-48E4-93BD-997E3CFF4DE9</string>
+      </void>
+      <void property="accessCount">
+       <int>0</int>
+      </void>
+      <void property="additionalComments">
+       <string></string>
+      </void>
+      <void property="cardDescription">
+       <string></string>
+      </void>
+      <void property="colleagueId">
+       <string>admin</string>
+      </void>
+      <void property="companyId">
+       <int>1</int>
+      </void>
+      <void property="createDate">
+       <object class="com.sun.org.apache.xerces.internal.jaxp.datatype.XMLGregorianCalendarImpl"/>
+      </void>
+      <void property="datasetName">
+       <string>acp_ds_frm_cliente_master</string>
+      </void>
+      <void property="documentDescription">
+       <string>Cliente Master</string>
+      </void>
+      <void property="documentId">
+       <int>3404</int>
+      </void>
+      <void property="documentPropertyNumber">
+       <int>3404</int>
+      </void>
+      <void property="documentPropertyVersion">
+       <int>1000</int>
+      </void>
+      <void property="documentType">
+       <string>4</string>
+      </void>
+      <void property="documentTypeId">
+       <string></string>
+      </void>
+      <void property="expirationDate">
+       <object class="com.sun.org.apache.xerces.internal.jaxp.datatype.XMLGregorianCalendarImpl"/>
+      </void>
+      <void property="iconId">
+       <int>0</int>
+      </void>
+      <void property="inheritSecurity">
+       <boolean>true</boolean>
+      </void>
+      <void property="keyWord">
+       <string></string>
+      </void>
+      <void property="languageId">
+       <string></string>
+      </void>
+      <void property="lastModifiedDate">
+       <object class="com.sun.org.apache.xerces.internal.jaxp.datatype.XMLGregorianCalendarImpl"/>
+      </void>
+      <void property="parentDocumentId">
+       <int>3401</int>
+      </void>
+      <void property="phisicalFile">
+       <string>Cliente Master.html</string>
+      </void>
+      <void property="phisicalFileSize">
+       <float>0.228119</float>
+      </void>
+      <void property="publisherId">
+       <string>admin</string>
+      </void>
+      <void property="relatedFiles">
+       <string>Cliente Master.html library_01_jquery.fileupload.min.js library_02_select2.js library_03_pt-BR.js.js module_01_main.js module_02_annexFunctions.js module_03_select2Funtions.js module_04_formDescription.js module_05_zoomFunctions.js module_06_verifyDataFunctions.js module_07_validateFields.js module_08_saveButton.js styleLibrary_01_select2.min.css styleLibrary_02_select2-bootstrap.css style_01_main.css</string>
+      </void>
+      <void property="topicId">
+       <int>0</int>
+      </void>
+      <void property="validationStartDate">
+       <object class="com.sun.org.apache.xerces.internal.jaxp.datatype.XMLGregorianCalendarImpl"/>
+      </void>
+      <void property="version">
+       <int>1000</int>
+      </void>
+      <void property="versionDescription">
+       <string></string>
+      </void>
+      <void property="volumeId">
+       <string>Default</string>
+      </void>
+     </object>
+    </void>
+    <void method="add">
+     <object class="com.totvs.tds.ecm.foundation.ws.DocumentDto">
+      <void property="UUID">
+       <string>EBD39AF5-907D-4539-A558-2472EC7B4BEF</string>
+      </void>
+      <void property="accessCount">
+       <int>0</int>
+      </void>
+      <void property="additionalComments">
+       <string></string>
+      </void>
+      <void property="colleagueId">
+       <string>admin</string>
+      </void>
+      <void property="companyId">
+       <int>1</int>
+      </void>
+      <void property="createDate">
+       <object class="com.sun.org.apache.xerces.internal.jaxp.datatype.XMLGregorianCalendarImpl"/>
+      </void>
+      <void property="datasetName">
+       <string>acp_ds_frm_lista_justificativas</string>
+      </void>
+      <void property="documentDescription">
+       <string>Lista Justificativas</string>
+      </void>
+      <void property="documentId">
+       <int>3405</int>
+      </void>
+      <void property="documentPropertyNumber">
+       <int>3405</int>
+      </void>
+      <void property="documentPropertyVersion">
+       <int>1000</int>
+      </void>
+      <void property="documentType">
+       <string>4</string>
+      </void>
+      <void property="documentTypeId">
+       <string></string>
+      </void>
+      <void property="expirationDate">
+       <object class="com.sun.org.apache.xerces.internal.jaxp.datatype.XMLGregorianCalendarImpl"/>
+      </void>
+      <void property="iconId">
+       <int>0</int>
+      </void>
+      <void property="inheritSecurity">
+       <boolean>true</boolean>
+      </void>
+      <void property="keyWord">
+       <string></string>
+      </void>
+      <void property="languageId">
+       <string></string>
+      </void>
+      <void property="lastModifiedDate">
+       <object class="com.sun.org.apache.xerces.internal.jaxp.datatype.XMLGregorianCalendarImpl"/>
+      </void>
+      <void property="parentDocumentId">
+       <int>3401</int>
+      </void>
+      <void property="phisicalFile">
+       <string>Lista Justificativas.html</string>
+      </void>
+      <void property="phisicalFileSize">
+       <float>0.0059309</float>
+      </void>
+      <void property="publisherId">
+       <string>admin</string>
+      </void>
+      <void property="relatedFiles">
+       <string>Lista Justificativas.html module_01_main.js module_02_addChildTableFunctions.js module_03_removeChildTableFunctions.js style_01_main.css</string>
+      </void>
+      <void property="topicId">
+       <int>0</int>
+      </void>
+      <void property="validationStartDate">
+       <object class="com.sun.org.apache.xerces.internal.jaxp.datatype.XMLGregorianCalendarImpl"/>
+      </void>
+      <void property="version">
+       <int>1000</int>
+      </void>
+      <void property="versionDescription">
+       <string></string>
+      </void>
+      <void property="volumeId">
+       <string>Default</string>
+      </void>
+     </object>
+    </void>
+    <void method="add">
+     <object class="com.totvs.tds.ecm.foundation.ws.DocumentDto">
+      <void property="UUID">
+       <string>A73DB2A4-51C0-488A-8AB8-3E0D96C8D2FB</string>
+      </void>
+      <void property="accessCount">
+       <int>0</int>
+      </void>
+      <void property="additionalComments">
+       <string></string>
+      </void>
+      <void property="colleagueId">
+       <string>admin</string>
+      </void>
+      <void property="companyId">
+       <int>1</int>
+      </void>
+      <void property="createDate">
+       <object class="com.sun.org.apache.xerces.internal.jaxp.datatype.XMLGregorianCalendarImpl"/>
+      </void>
+      <void property="datasetName">
+       <string>acp_ds_frm_lista_motivo_reprovacao</string>
+      </void>
+      <void property="documentDescription">
+       <string>Lista Motivo Reprovação</string>
+      </void>
+      <void property="documentId">
+       <int>3406</int>
+      </void>
+      <void property="documentPropertyNumber">
+       <int>3406</int>
+      </void>
+      <void property="documentPropertyVersion">
+       <int>1000</int>
+      </void>
+      <void property="documentType">
+       <string>4</string>
+      </void>
+      <void property="documentTypeId">
+       <string></string>
+      </void>
+      <void property="expirationDate">
+       <object class="com.sun.org.apache.xerces.internal.jaxp.datatype.XMLGregorianCalendarImpl"/>
+      </void>
+      <void property="iconId">
+       <int>0</int>
+      </void>
+      <void property="inheritSecurity">
+       <boolean>true</boolean>
+      </void>
+      <void property="keyWord">
+       <string></string>
+      </void>
+      <void property="languageId">
+       <string></string>
+      </void>
+      <void property="lastModifiedDate">
+       <object class="com.sun.org.apache.xerces.internal.jaxp.datatype.XMLGregorianCalendarImpl"/>
+      </void>
+      <void property="parentDocumentId">
+       <int>3401</int>
+      </void>
+      <void property="phisicalFile">
+       <string>Lista Motivo Reprovação.html</string>
+      </void>
+      <void property="phisicalFileSize">
+       <float>0.00594616</float>
+      </void>
+      <void property="publisherId">
+       <string>admin</string>
+      </void>
+      <void property="relatedFiles">
+       <string>Lista Motivo Reprovação.html module_01_main.js module_02_addChildTableFunctions.js module_03_removeChildTableFunctions.js style_01_main.css</string>
+      </void>
+      <void property="topicId">
+       <int>0</int>
+      </void>
+      <void property="validationStartDate">
+       <object class="com.sun.org.apache.xerces.internal.jaxp.datatype.XMLGregorianCalendarImpl"/>
+      </void>
+      <void property="version">
+       <int>1000</int>
+      </void>
+      <void property="versionDescription">
+       <string></string>
+      </void>
+      <void property="volumeId">
+       <string>Default</string>
+      </void>
+     </object>
+    </void>
+    <void method="add">
+     <object class="com.totvs.tds.ecm.foundation.ws.DocumentDto">
+      <void property="UUID">
+       <string>A3D5277A-7CF6-46D2-B5A6-BA78B659AC7A</string>
+      </void>
+      <void property="accessCount">
+       <int>0</int>
+      </void>
+      <void property="additionalComments">
+       <string></string>
+      </void>
+      <void property="colleagueId">
+       <string>admin</string>
+      </void>
+      <void property="companyId">
+       <int>1</int>
+      </void>
+      <void property="createDate">
+       <object class="com.sun.org.apache.xerces.internal.jaxp.datatype.XMLGregorianCalendarImpl"/>
+      </void>
+      <void property="datasetName">
+       <string>acp_ds_frm_lista_tipo_custo_adicional</string>
+      </void>
+      <void property="documentDescription">
+       <string>Lista Tipo Custo Adicional</string>
+      </void>
+      <void property="documentId">
+       <int>3407</int>
+      </void>
+      <void property="documentPropertyNumber">
+       <int>3407</int>
+      </void>
+      <void property="documentPropertyVersion">
+       <int>1000</int>
+      </void>
+      <void property="documentType">
+       <string>4</string>
+      </void>
+      <void property="documentTypeId">
+       <string></string>
+      </void>
+      <void property="expirationDate">
+       <object class="com.sun.org.apache.xerces.internal.jaxp.datatype.XMLGregorianCalendarImpl"/>
+      </void>
+      <void property="iconId">
+       <int>0</int>
+      </void>
+      <void property="inheritSecurity">
+       <boolean>true</boolean>
+      </void>
+      <void property="keyWord">
+       <string></string>
+      </void>
+      <void property="languageId">
+       <string></string>
+      </void>
+      <void property="lastModifiedDate">
+       <object class="com.sun.org.apache.xerces.internal.jaxp.datatype.XMLGregorianCalendarImpl"/>
+      </void>
+      <void property="parentDocumentId">
+       <int>3401</int>
+      </void>
+      <void property="phisicalFile">
+       <string>Lista Tipo Custo Adicional.html</string>
+      </void>
+      <void property="phisicalFileSize">
+       <float>0.00570774</float>
+      </void>
+      <void property="publisherId">
+       <string>admin</string>
+      </void>
+      <void property="relatedFiles">
+       <string>Lista Tipo Custo Adicional.html module_01_main.js module_02_addChildTableFunctions.js module_03_removeChildTableFunctions.js style_01_main.css</string>
+      </void>
+      <void property="topicId">
+       <int>0</int>
+      </void>
+      <void property="validationStartDate">
+       <object class="com.sun.org.apache.xerces.internal.jaxp.datatype.XMLGregorianCalendarImpl"/>
+      </void>
+      <void property="version">
+       <int>1000</int>
+      </void>
+      <void property="versionDescription">
+       <string></string>
+      </void>
+      <void property="volumeId">
+       <string>Default</string>
+      </void>
+     </object>
+    </void>
+    <void method="add">
+     <object class="com.totvs.tds.ecm.foundation.ws.DocumentDto">
+      <void property="UUID">
+       <string>F3D1930C-4D55-4659-B122-C1C93C2B1BF4</string>
+      </void>
+      <void property="accessCount">
+       <int>0</int>
+      </void>
+      <void property="additionalComments">
+       <string></string>
+      </void>
+      <void property="colleagueId">
+       <string>admin</string>
+      </void>
+      <void property="companyId">
+       <int>1</int>
+      </void>
+      <void property="createDate">
+       <object class="com.sun.org.apache.xerces.internal.jaxp.datatype.XMLGregorianCalendarImpl"/>
+      </void>
+      <void property="datasetName">
+       <string>acp_ds_frm_relacao_grupos_nivel_aprovacao</string>
+      </void>
+      <void property="documentDescription">
+       <string>Relação Grupos X Nível Aprovação</string>
+      </void>
+      <void property="documentId">
+       <int>3408</int>
+      </void>
+      <void property="documentPropertyNumber">
+       <int>3408</int>
+      </void>
+      <void property="documentPropertyVersion">
+       <int>1000</int>
+      </void>
+      <void property="documentType">
+       <string>4</string>
+      </void>
+      <void property="documentTypeId">
+       <string></string>
+      </void>
+      <void property="expirationDate">
+       <object class="com.sun.org.apache.xerces.internal.jaxp.datatype.XMLGregorianCalendarImpl"/>
+      </void>
+      <void property="iconId">
+       <int>0</int>
+      </void>
+      <void property="inheritSecurity">
+       <boolean>true</boolean>
+      </void>
+      <void property="keyWord">
+       <string></string>
+      </void>
+      <void property="languageId">
+       <string></string>
+      </void>
+      <void property="lastModifiedDate">
+       <object class="com.sun.org.apache.xerces.internal.jaxp.datatype.XMLGregorianCalendarImpl"/>
+      </void>
+      <void property="parentDocumentId">
+       <int>3401</int>
+      </void>
+      <void property="phisicalFile">
+       <string>Relação Grupos X Nível Aprovação.html</string>
+      </void>
+      <void property="phisicalFileSize">
+       <float>0.018878</float>
+      </void>
+      <void property="publisherId">
+       <string>admin</string>
+      </void>
+      <void property="relatedFiles">
+       <string>Relação Grupos X Nível Aprovação.html module_01_main.js module_02_addChildTableFunctions.js module_03_removeChildTableFunctions.js module_04_zoomFunctions.js module_05_maskFunctions.js module_06_formDescription.js module_07_showHideElementsView.js module_08_verifyDataFunctions.js module_09_saveButton.js module_10_validateFields.js style_01_main.css</string>
+      </void>
+      <void property="topicId">
+       <int>0</int>
+      </void>
+      <void property="validationStartDate">
+       <object class="com.sun.org.apache.xerces.internal.jaxp.datatype.XMLGregorianCalendarImpl"/>
+      </void>
+      <void property="version">
+       <int>1000</int>
+      </void>
+      <void property="versionDescription">
+       <string></string>
+      </void>
+      <void property="volumeId">
+       <string>Default</string>
+      </void>
+     </object>
+    </void>
+    <void method="add">
+     <object class="com.totvs.tds.ecm.foundation.ws.DocumentDto">
+      <void property="UUID">
+       <string>282BFB55-F7D4-486B-A28F-3000586EC219</string>
+      </void>
+      <void property="accessCount">
+       <int>0</int>
+      </void>
+      <void property="additionalComments">
+       <string></string>
+      </void>
+      <void property="cardDescription">
+       <string></string>
+      </void>
+      <void property="colleagueId">
+       <string>admin</string>
+      </void>
+      <void property="companyId">
+       <int>1</int>
+      </void>
+      <void property="createDate">
+       <object class="com.sun.org.apache.xerces.internal.jaxp.datatype.XMLGregorianCalendarImpl"/>
+      </void>
+      <void property="datasetName">
+       <string>enf_ds_frm_cadastro_de_bancos</string>
+      </void>
+      <void property="documentDescription">
+       <string>Cadastro de Bancos</string>
+      </void>
+      <void property="documentId">
+       <int>3432</int>
+      </void>
+      <void property="documentPropertyNumber">
+       <int>3432</int>
+      </void>
+      <void property="documentPropertyVersion">
+       <int>1000</int>
+      </void>
+      <void property="documentType">
+       <string>4</string>
+      </void>
+      <void property="documentTypeId">
+       <string></string>
+      </void>
+      <void property="expirationDate">
+       <object class="com.sun.org.apache.xerces.internal.jaxp.datatype.XMLGregorianCalendarImpl"/>
+      </void>
+      <void property="iconId">
+       <int>0</int>
+      </void>
+      <void property="inheritSecurity">
+       <boolean>true</boolean>
+      </void>
+      <void property="keyWord">
+       <string></string>
+      </void>
+      <void property="languageId">
+       <string></string>
+      </void>
+      <void property="lastModifiedDate">
+       <object class="com.sun.org.apache.xerces.internal.jaxp.datatype.XMLGregorianCalendarImpl"/>
+      </void>
+      <void property="parentDocumentId">
+       <int>2849</int>
+      </void>
+      <void property="phisicalFile">
+       <string>Cadastro de Bancos.html</string>
+      </void>
+      <void property="phisicalFileSize">
+       <float>0.00212193</float>
+      </void>
+      <void property="publisherId">
+       <string>admin</string>
+      </void>
+      <void property="relatedFiles">
+       <string>Cadastro de Bancos.html</string>
+      </void>
+      <void property="topicId">
+       <int>0</int>
+      </void>
+      <void property="validationStartDate">
+       <object class="com.sun.org.apache.xerces.internal.jaxp.datatype.XMLGregorianCalendarImpl"/>
+      </void>
+      <void property="version">
+       <int>1000</int>
+      </void>
+      <void property="versionDescription">
+       <string></string>
+      </void>
+      <void property="volumeId">
+       <string>Default</string>
+      </void>
+     </object>
+    </void>
+    <void method="add">
+     <object class="com.totvs.tds.ecm.foundation.ws.DocumentDto">
+      <void property="UUID">
+       <string>76D04CF9-B52A-43D7-81BF-93DDDA7B2333</string>
+      </void>
+      <void property="accessCount">
+       <int>0</int>
+      </void>
+      <void property="additionalComments">
+       <string></string>
+      </void>
+      <void property="cardDescription">
+       <string></string>
+      </void>
+      <void property="colleagueId">
+       <string>admin</string>
+      </void>
+      <void property="companyId">
+       <int>1</int>
+      </void>
+      <void property="createDate">
+       <object class="com.sun.org.apache.xerces.internal.jaxp.datatype.XMLGregorianCalendarImpl"/>
+      </void>
+      <void property="datasetName">
+       <string>ds_form_fluig_spot</string>
+      </void>
+      <void property="documentDescription">
+       <string>form_fluig_spot</string>
+      </void>
+      <void property="documentId">
+       <int>3434</int>
+      </void>
+      <void property="documentPropertyNumber">
+       <int>3434</int>
+      </void>
+      <void property="documentPropertyVersion">
+       <int>2000</int>
+      </void>
+      <void property="documentType">
+       <string>4</string>
+      </void>
+      <void property="documentTypeId">
+       <string></string>
+      </void>
+      <void property="expirationDate">
+       <object class="com.sun.org.apache.xerces.internal.jaxp.datatype.XMLGregorianCalendarImpl"/>
+      </void>
+      <void property="iconId">
+       <int>0</int>
+      </void>
+      <void property="inheritSecurity">
+       <boolean>true</boolean>
+      </void>
+      <void property="keyWord">
+       <string></string>
+      </void>
+      <void property="languageId">
+       <string></string>
+      </void>
+      <void property="lastModifiedDate">
+       <object class="com.sun.org.apache.xerces.internal.jaxp.datatype.XMLGregorianCalendarImpl"/>
+      </void>
+      <void property="parentDocumentId">
+       <int>3433</int>
+      </void>
+      <void property="phisicalFile">
+       <string>form_fluig_spot.html</string>
+      </void>
+      <void property="phisicalFileSize">
+       <float>6.69479E-4</float>
+      </void>
+      <void property="publisherId">
+       <string>admin</string>
+      </void>
+      <void property="relatedFiles">
+       <string>form_fluig_spot.html module_01_main.js module_02_onload.js module_03_activities.js</string>
+      </void>
+      <void property="topicId">
+       <int>0</int>
+      </void>
+      <void property="validationStartDate">
+       <object class="com.sun.org.apache.xerces.internal.jaxp.datatype.XMLGregorianCalendarImpl"/>
+      </void>
+      <void property="version">
+       <int>2000</int>
+      </void>
+      <void property="versionDescription">
+       <string></string>
+      </void>
+      <void property="volumeId">
+       <string>Default</string>
+      </void>
+     </object>
+    </void>
+    <void method="add">
+     <object class="com.totvs.tds.ecm.foundation.ws.DocumentDto">
+      <void property="UUID">
+       <string>00039F86-3E55-4D27-A0CC-32726099F0F6</string>
+      </void>
+      <void property="accessCount">
+       <int>0</int>
+      </void>
+      <void property="additionalComments">
+       <string></string>
+      </void>
+      <void property="cardDescription">
+       <string></string>
+      </void>
+      <void property="colleagueId">
+       <string>admin</string>
+      </void>
+      <void property="companyId">
+       <int>1</int>
+      </void>
+      <void property="createDate">
+       <object class="com.sun.org.apache.xerces.internal.jaxp.datatype.XMLGregorianCalendarImpl"/>
+      </void>
+      <void property="datasetName">
+       <string>ds_form_aux_fluig_spot</string>
+      </void>
+      <void property="documentDescription">
+       <string>form_aux_fluig_spot</string>
+      </void>
+      <void property="documentId">
+       <int>3436</int>
+      </void>
+      <void property="documentPropertyNumber">
+       <int>3436</int>
+      </void>
+      <void property="documentPropertyVersion">
+       <int>1000</int>
+      </void>
+      <void property="documentType">
+       <string>4</string>
+      </void>
+      <void property="documentTypeId">
+       <string></string>
+      </void>
+      <void property="expirationDate">
+       <object class="com.sun.org.apache.xerces.internal.jaxp.datatype.XMLGregorianCalendarImpl"/>
+      </void>
+      <void property="iconId">
+       <int>0</int>
+      </void>
+      <void property="inheritSecurity">
+       <boolean>true</boolean>
+      </void>
+      <void property="keyWord">
+       <string></string>
+      </void>
+      <void property="languageId">
+       <string></string>
+      </void>
+      <void property="lastModifiedDate">
+       <object class="com.sun.org.apache.xerces.internal.jaxp.datatype.XMLGregorianCalendarImpl"/>
+      </void>
+      <void property="parentDocumentId">
+       <int>3433</int>
+      </void>
+      <void property="phisicalFile">
+       <string>form_aux_fluig_spot.html</string>
+      </void>
+      <void property="phisicalFileSize">
+       <float>0.001647</float>
+      </void>
+      <void property="publisherId">
+       <string>admin</string>
+      </void>
+      <void property="relatedFiles">
+       <string>form_aux_fluig_spot.html module_01_main.js module_02_masks.js</string>
+      </void>
+      <void property="topicId">
+       <int>0</int>
+      </void>
+      <void property="validationStartDate">
+       <object class="com.sun.org.apache.xerces.internal.jaxp.datatype.XMLGregorianCalendarImpl"/>
+      </void>
+      <void property="version">
+       <int>1000</int>
+      </void>
+      <void property="versionDescription">
+       <string></string>
+      </void>
+      <void property="volumeId">
+       <string>Default</string>
+      </void>
+     </object>
+    </void>
+   </object>
+  </void>
+  <void method="put">
+   <string>expediente</string>
+   <array class="java.lang.String" length="1">
+    <void index="0">
+     <string>Default</string>
+    </void>
+   </array>
+  </void>
+  <void method="put">
+   <string>processosServidor</string>
+   <object class="java.util.ArrayList">
+    <void method="add">
+     <object class="com.totvs.tds.ecm.foundation.ws.ProcessDefinitionDto">
+      <void property="companyId">
+       <int>1</int>
+      </void>
+      <void property="processDescription">
+       <string>Acordo Comercial de Preços</string>
+      </void>
+      <void property="processId">
+       <string>acp_wf_acordo_comercial_de_precos</string>
+      </void>
+     </object>
+    </void>
+    <void method="add">
+     <object class="com.totvs.tds.ecm.foundation.ws.ProcessDefinitionDto">
+      <void property="companyId">
+       <int>1</int>
+      </void>
+      <void property="processDescription">
+       <string>afip_test</string>
+      </void>
+      <void property="processId">
+       <string>afip_test</string>
+      </void>
+     </object>
+    </void>
+    <void method="add">
+     <object class="com.totvs.tds.ecm.foundation.ws.ProcessDefinitionDto">
+      <void property="companyId">
+       <int>1</int>
+      </void>
+      <void property="processDescription">
+       <string>Aprovação de ARMC</string>
+      </void>
+      <void property="processId">
+       <string>aprovacao_ARMC</string>
+      </void>
+     </object>
+    </void>
+    <void method="add">
+     <object class="com.totvs.tds.ecm.foundation.ws.ProcessDefinitionDto">
+      <void property="companyId">
+       <int>1</int>
+      </void>
+      <void property="processDescription">
+       <string>Aprovação de Compras</string>
+      </void>
+      <void property="processId">
+       <string>aprovaCompras</string>
+      </void>
+     </object>
+    </void>
+    <void method="add">
+     <object class="com.totvs.tds.ecm.foundation.ws.ProcessDefinitionDto">
+      <void property="companyId">
+       <int>1</int>
+      </void>
+      <void property="processDescription">
+       <string>Cadastro de Eventos</string>
+      </void>
+      <void property="processId">
+       <string>CadastrodeEventos</string>
+      </void>
+     </object>
+    </void>
+    <void method="add">
+     <object class="com.totvs.tds.ecm.foundation.ws.ProcessDefinitionDto">
+      <void property="companyId">
+       <int>1</int>
+      </void>
+      <void property="processDescription">
+       <string>Cadastro de Sub Eventos</string>
+      </void>
+      <void property="processId">
+       <string>CadastrodeSubEventos</string>
+      </void>
+     </object>
+    </void>
+    <void method="add">
+     <object class="com.totvs.tds.ecm.foundation.ws.ProcessDefinitionDto">
+      <void property="companyId">
+       <int>1</int>
+      </void>
+      <void property="processDescription">
+       <string>Chamados_Facilities</string>
+      </void>
+      <void property="processId">
+       <string>Chamados_Facilities</string>
+      </void>
+     </object>
+    </void>
+    <void method="add">
+     <object class="com.totvs.tds.ecm.foundation.ws.ProcessDefinitionDto">
+      <void property="companyId">
+       <int>1</int>
+      </void>
+      <void property="processDescription">
+       <string>Crown_Aprova_Abertura</string>
+      </void>
+      <void property="processId">
+       <string>Crown_Aprova_Abertura</string>
+      </void>
+     </object>
+    </void>
+    <void method="add">
+     <object class="com.totvs.tds.ecm.foundation.ws.ProcessDefinitionDto">
+      <void property="companyId">
+       <int>1</int>
+      </void>
+      <void property="processDescription">
+       <string>Aprovação Corporativa</string>
+      </void>
+      <void property="processId">
+       <string>diag_aprovacao_corporativa</string>
+      </void>
+     </object>
+    </void>
+    <void method="add">
+     <object class="com.totvs.tds.ecm.foundation.ws.ProcessDefinitionDto">
+      <void property="companyId">
+       <int>1</int>
+      </void>
+      <void property="processDescription">
+       <string>Listar Tarefas</string>
+      </void>
+      <void property="processId">
+       <string>FLUIGADHOC</string>
+      </void>
+     </object>
+    </void>
+    <void method="add">
+     <object class="com.totvs.tds.ecm.foundation.ws.ProcessDefinitionDto">
+      <void property="companyId">
+       <int>1</int>
+      </void>
+      <void property="processDescription">
+       <string>Não conformidade</string>
+      </void>
+      <void property="processId">
+       <string>FluxoNaoConformidade</string>
+      </void>
+     </object>
+    </void>
+    <void method="add">
+     <object class="com.totvs.tds.ecm.foundation.ws.ProcessDefinitionDto">
+      <void property="companyId">
+       <int>1</int>
+      </void>
+      <void property="processDescription">
+       <string>Francal</string>
+      </void>
+      <void property="processId">
+       <string>Francal - Cadastro de Eventos</string>
+      </void>
+     </object>
+    </void>
+    <void method="add">
+     <object class="com.totvs.tds.ecm.foundation.ws.ProcessDefinitionDto">
+      <void property="companyId">
+       <int>1</int>
+      </void>
+      <void property="processDescription">
+       <string>Fluxo_Abertura_de_Chamados</string>
+      </void>
+      <void property="processId">
+       <string>HelpDesk</string>
+      </void>
+     </object>
+    </void>
+    <void method="add">
+     <object class="com.totvs.tds.ecm.foundation.ws.ProcessDefinitionDto">
+      <void property="companyId">
+       <int>1</int>
+      </void>
+      <void property="processDescription">
+       <string>Mínimo Garantido</string>
+      </void>
+      <void property="processId">
+       <string>minimo_garantido</string>
+      </void>
+     </object>
+    </void>
+    <void method="add">
+     <object class="com.totvs.tds.ecm.foundation.ws.ProcessDefinitionDto">
+      <void property="companyId">
+       <int>1</int>
+      </void>
+      <void property="processDescription">
+       <string>Processo de Expansão</string>
+      </void>
+      <void property="processId">
+       <string>Processo_de_expansao</string>
+      </void>
+     </object>
+    </void>
+    <void method="add">
+     <object class="com.totvs.tds.ecm.foundation.ws.ProcessDefinitionDto">
+      <void property="companyId">
+       <int>1</int>
+      </void>
+      <void property="processDescription">
+       <string>Processo de Lançamento de NFS</string>
+      </void>
+      <void property="processId">
+       <string>processo_lancamento_nfs</string>
+      </void>
+     </object>
+    </void>
+    <void method="add">
+     <object class="com.totvs.tds.ecm.foundation.ws.ProcessDefinitionDto">
+      <void property="companyId">
+       <int>1</int>
+      </void>
+      <void property="processDescription">
+       <string>Fluxo de Reembolso</string>
+      </void>
+      <void property="processId">
+       <string>reembolso</string>
+      </void>
+     </object>
+    </void>
+    <void method="add">
+     <object class="com.totvs.tds.ecm.foundation.ws.ProcessDefinitionDto">
+      <void property="companyId">
+       <int>1</int>
+      </void>
+      <void property="processDescription">
+       <string>Fluxo de SAC Corporativo</string>
+      </void>
+      <void property="processId">
+       <string>SAC_CORPORATIVO</string>
+      </void>
+     </object>
+    </void>
+    <void method="add">
+     <object class="com.totvs.tds.ecm.foundation.ws.ProcessDefinitionDto">
+      <void property="companyId">
+       <int>1</int>
+      </void>
+      <void property="processDescription">
+       <string>Solicitação de Compra</string>
+      </void>
+      <void property="processId">
+       <string>solicitacaodecompra</string>
+      </void>
+     </object>
+    </void>
+    <void method="add">
+     <object class="com.totvs.tds.ecm.foundation.ws.ProcessDefinitionDto">
+      <void property="companyId">
+       <int>1</int>
+      </void>
+      <void property="processDescription">
+       <string>Solicitação de Compras Corporativo</string>
+      </void>
+      <void property="processId">
+       <string>solic_compra2</string>
+      </void>
+     </object>
+    </void>
+    <void method="add">
+     <object class="com.totvs.tds.ecm.foundation.ws.ProcessDefinitionDto">
+      <void property="companyId">
+       <int>1</int>
+      </void>
+      <void property="processDescription">
+       <string>testeValmir</string>
+      </void>
+      <void property="processId">
+       <string>testeValmir</string>
+      </void>
+     </object>
+    </void>
+    <void method="add">
+     <object class="com.totvs.tds.ecm.foundation.ws.ProcessDefinitionDto">
+      <void property="companyId">
+       <int>1</int>
+      </void>
+      <void property="processDescription">
+       <string>teste_v2_move</string>
+      </void>
+      <void property="processId">
+       <string>teste_v2_move</string>
+      </void>
+     </object>
+    </void>
+    <void method="add">
+     <object class="com.totvs.tds.ecm.foundation.ws.ProcessDefinitionDto">
+      <void property="companyId">
+       <int>1</int>
+      </void>
+      <void property="processDescription">
+       <string>TOTVS Antecipa</string>
+      </void>
+      <void property="processId">
+       <string>totvsAntecipa</string>
+      </void>
+     </object>
+    </void>
+    <void method="add">
+     <object class="com.totvs.tds.ecm.foundation.ws.ProcessDefinitionDto">
+      <void property="companyId">
+       <int>1</int>
+      </void>
+      <void property="processDescription">
+       <string>wf_fluig_spot</string>
+      </void>
+      <void property="processId">
+       <string>wf_fluig_spot</string>
+      </void>
+     </object>
+    </void>
+   </object>
+  </void>
+  <void method="put">
+   <string>mecanismo</string>
+   <array class="[Ljava.lang.Object;" length="12">
+    <void index="0">
+     <array class="java.lang.Object" length="2">
+      <void index="0">
+       <string>acp_ma_get_requesters</string>
+      </void>
+      <void index="1">
+       <string>acp_ma_get_requesters</string>
+      </void>
+     </array>
+    </void>
+    <void index="1">
+     <array class="java.lang.Object" length="2">
+      <void index="0">
+       <string>acp_ma_internal_approvers</string>
+      </void>
+      <void index="1">
+       <string>acp_ma_internal_approvers</string>
+      </void>
+     </array>
+    </void>
+    <void index="2">
+     <array class="java.lang.Object" length="2">
+      <void index="0">
+       <string>Atribuição por Associação</string>
+      </void>
+      <void index="1">
+       <string>Associado</string>
+      </void>
+     </array>
+    </void>
+    <void index="3">
+     <array class="java.lang.Object" length="2">
+      <void index="0">
+       <string>Atribuição por Campo de Formulário</string>
+      </void>
+      <void index="1">
+       <string>Campo Formulário</string>
+      </void>
+     </array>
+    </void>
+    <void index="4">
+     <array class="java.lang.Object" length="2">
+      <void index="0">
+       <string>Atribuição por Executor de Atividade</string>
+      </void>
+      <void index="1">
+       <string>Executor Atividade</string>
+      </void>
+     </array>
+    </void>
+    <void index="5">
+     <array class="java.lang.Object" length="2">
+      <void index="0">
+       <string>Atribuição por Grupo</string>
+      </void>
+      <void index="1">
+       <string>Grupo</string>
+      </void>
+     </array>
+    </void>
+    <void index="6">
+     <array class="java.lang.Object" length="2">
+      <void index="0">
+       <string>Atribuição por Grupos do Colaborador</string>
+      </void>
+      <void index="1">
+       <string>Grupos Colaborador</string>
+      </void>
+     </array>
+    </void>
+    <void index="7">
+     <array class="java.lang.Object" length="2">
+      <void index="0">
+       <string>A - MC Teste Valmir</string>
+      </void>
+      <void index="1">
+       <string>mc_testeValmir</string>
+      </void>
+     </array>
+    </void>
+    <void index="8">
+     <array class="java.lang.Object" length="2">
+      <void index="0">
+       <string>Atribuição por Papel</string>
+      </void>
+      <void index="1">
+       <string>Papel</string>
+      </void>
+     </array>
+    </void>
+    <void index="9">
+     <array class="java.lang.Object" length="2">
+      <void index="0">
+       <string>Atribuição para um Grupo</string>
+      </void>
+      <void index="1">
+       <string>Pool Grupo</string>
+      </void>
+     </array>
+    </void>
+    <void index="10">
+     <array class="java.lang.Object" length="2">
+      <void index="0">
+       <string>Atribuição para um Papel</string>
+      </void>
+      <void index="1">
+       <string>Pool Papel</string>
+      </void>
+     </array>
+    </void>
+    <void index="11">
+     <array class="java.lang.Object" length="2">
+      <void index="0">
+       <string>Atribuição por Usuário</string>
+      </void>
+      <void index="1">
+       <string>Usuário</string>
+      </void>
+     </array>
+    </void>
+   </array>
+  </void>
+ </object>
+</java>
