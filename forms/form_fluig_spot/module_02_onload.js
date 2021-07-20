@@ -1,5 +1,6 @@
 const onloadFuncsCallbacks = () => {
     changeHelloTitle();
+    verifyIfUserIsProcessManager();
 }
 
 const getUsername = () => {
